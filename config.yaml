@@ -84,16 +84,16 @@ params:
     # option to specify the subtitle in the homepage
     subtitle: Personal website and blog
     # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
+    image: "/img/profilepic_ushuaia-650.png" # worker.svg 
     # option to specify the width of the image in the homepage
-    imageWidth: 500px
+    imageWidth: 400px
 
   # footer options
   footer:
     # option to specify the logo in the footer
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
-    email: fabio@dticofab.io
+    email: fabio@ticofab.io
     # option to specify your linkedin profile in the footer
     linkedin: https://www.linkedin.com/your_linkedin_profile/
     # option to specify your facebook account in the footer; **uncomment** the below line to show in footer
