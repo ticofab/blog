@@ -6,6 +6,8 @@ showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
+![Reactive Meetup](reactive-meetup-wework.jpg)
+
 #### UPCOMING 2020
 
 * Rotterdam (NL), **Lunatech** - 17th January, "Tame Crypto Events with Streaming"

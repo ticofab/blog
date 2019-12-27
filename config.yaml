@@ -80,7 +80,7 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: Julia The White
+    title: ticofab
     # option to specify the subtitle in the homepage
     subtitle: Personal website and blog
     # option to specify image in the homepage
@@ -93,7 +93,7 @@ params:
     # option to specify the logo in the footer
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
-    email: name.surname@domain.com
+    email: fabio@dticofab.io
     # option to specify your linkedin profile in the footer
     linkedin: https://www.linkedin.com/your_linkedin_profile/
     # option to specify your facebook account in the footer; **uncomment** the below line to show in footer
@@ -105,7 +105,7 @@ params:
     # option to specify your instagram username in the footer; **uncomment** the below line to show in footer
     # instagram: username
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2019
+    copyright: Fabio Tiriticco - 2020
 
 # multilanguage support
 languages:
