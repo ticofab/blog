@@ -1,7 +1,7 @@
 ---
 title: Esperance Hopes
 date: 2010-11-12
-summary: "This is the only way to hear the breath of the land."
+summary: "I regarded them as proper signatures on the road."
 summaryImage: "profilepic_b.jpg"
 tags: ["Australia", "Esperance", "Road trip"]
 ---
@@ -14,7 +14,7 @@ The view is already different: it's high, and kind of "panoramic". Check this sh
 
 ![](viewfromtrucktrain_b.jpg)
 
-It's harvest season down here, so our destination was a farm not far from town. At some point we took an unpaved road (here they say "unsealed") and drove through fields till we reached ours. Here, we found a few "harvesters", big machines that collect the stuff (sorry, I don't remember what it was) and put it into a big silo, where it'll wait for a truck to come. Once our track was parked next to the silos, the loading process could begin, and if you want you can climb the truck and see what's going on in the trailer!
+It's harvest season down here, so our destination was a farm not far from town. At some point we took an unpaved road (here they say "unsealed") and drove through fields till we reached ours. Here, we found a few "harvesters", big machines that collect granola and put it into a big silo, where it'll wait for a truck to come. Once our track was parked next to the silos, the loading process could begin, and if you want you can climb the truck and see what's going on in the trailer!
 
 ![](loadingtruck_b.jpg)
 
@@ -22,7 +22,7 @@ It's harvest season down here, so our destination was a farm not far from town. 
 
 Once the beast was fully loaded we took the way back towards Esperance. We were now carrying about 25 tons of stuff (if I remember correctly), and God you feel it! The initial acceleration was now so slow that it makes you wonder whether you'll be able to move or not.
 
-The next step is to take the load to a sampling centre, where they decide if it's clean enough (stones or dirt might be in it) and the quality of the product, which ultimately sets the price. There, we had to go through a long queue of trucks as one of the sampling station was broken ("This is when the day turns like shit", was the initial comment of our friend! Luckily it wasn't too bad in the end.) If the samplers detect too much impurity, you need to go to a cleaning station and then come back to sample again. Fortunately this wasn't our case, so that we could proceed immediately to the collect point. The unloading was surprisingly quick: the truck stops on a special platform and the load is taken from below! The trailer opens and puff!, the load falls into its next container.
+The next step is to take the load to a sampling centre, where they decide if it's clean enough (stones or dirt might be in it) and the quality of the product, which ultimately sets the price. There, we had to go through a long queue of trucks as one of the sampling station was broken ("This is when the day turns to shit", was the initial comment of our friend! Luckily it wasn't too bad in the end.) If the samplers detect too much impurity, you need to go to a cleaning station and then come back to sample again. Fortunately this wasn't our case, so that we could proceed immediately to the collect point. The unloading was surprisingly quick: the truck stops on a special platform and the load is taken from below! The trailer opens and puff!, the load falls into its next container.
 
 The whole thing was really fascinating as it gave me more awareness on what's going on before a product (cooking oil, in this case) hits the supermarket shelves, which we generally do know nothing about. This experience teamed up with the [goat sacrifice I attended in Nepal](http://ticofab.io/travel/2010-10-21-dashain_in_nepal_part_1/): both cases were about seeing what our food was before becoming food. There, the process couldn't have been more basic: kill the goat, chop it, cook it. Here in our part of the world, there are so many sophisticated layers in between, advanced technology and a huge number of intermediaries. And I've only seen the beginning! Imagine the processing that would come after, then the packaging and the shipping!
 
