@@ -95,15 +95,15 @@ params:
     # option to specify your contact email in the footer
     email: fabio@ticofab.io
     # option to specify your linkedin profile in the footer
-    linkedin: https://www.linkedin.com/your_linkedin_profile/
+    linkedin: https://www.linkedin.com/in/ticofab/
     # option to specify your facebook account in the footer; **uncomment** the below line to show in footer
     # facebook: your.username
     # option to specify your github account in the footer; **uncomment** the below line to show in footer
-    # github: username
+    github: ticofab
     # option to specify your twitter username in the footer; **uncomment** the below line to show in footer
-    # twitter: username
+    twitter: ticofab
     # option to specify your instagram username in the footer; **uncomment** the below line to show in footer
-    # instagram: username
+    instagram: ticofab
     # option to specify the copyright in the footer
     copyright: Fabio Tiriticco - 2020
 
