@@ -1,6 +1,6 @@
 ---
 title: Geraldton Life - Outdoor
-date: 2010-11-27
+date: 2010-11-25
 summary: "Eyes barely open, they look like half asleep at the bar after a night out drinking."
 summaryImage: "kangaroos.jpg"
 tags: ["Australia", "Geraldton"]
