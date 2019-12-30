@@ -1,6 +1,6 @@
 ---
 title: Los Porteños de Valparaiso
-date: 2010-12-20
+date: 2010-12-23
 summary: "What I didn't understand from our email exchange is that she had a room to rent out herself."
 summaryImage: "erica_339.jpg"
 tags: ["Chile", "Valparaiso"]
