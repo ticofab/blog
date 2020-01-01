@@ -27,6 +27,6 @@ I know what you're thinking. We've all seen and lived in hilly cities (except my
 
 ![](valparaiso-elevators-cerro-conception_390.jpg)
 
-As we've seen in the <a href="http://famsterdamlife.com/2013/03/the-dogs-of-valparaiso/">canine</a> and the <a href-"http://famsterdamlife.com/2011/10/the-walls-of-valparaiso/">mural</a> chapters of the trilogy, any of Valpo's icons will give spark to art. Elevators are no exception to that--this town seems to me one of the most self-celebrative art cradles I have ever seen. Deservedly so.
+As we've seen in the canine and the mural chapters of the trilogy, any of Valpo's icons will give spark to art. Elevators are no exception to that--this town seems to me one of the most self-celebrative art cradles I have ever seen. Deservedly so.
 
 ![](valparaiso-elevators-art_361.jpg)
