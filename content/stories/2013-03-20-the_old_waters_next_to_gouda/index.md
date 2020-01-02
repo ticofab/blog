@@ -2,13 +2,13 @@
 title: The Old Waters Next To Gouda
 date: 2013-03-20
 summary: "It was cold but clear and the sun was on the rise. A gorgeous day!"
-summaryImage: "bike-ride-the-old-waters-next-to-Gouda-bike-at-the-amstel_423.jpg"
+summaryImage: "bike-ride-the-old-waters-next-to-Gouda-amstel_423.jpg"
 tags: ["Gouda", "The Netherlands", "Bicycle"]
 ---
 
 The bike ride I'll talk about today was the first bike ride of 2012. As tradition wants, it was the ride to go to the birthday party of my friend in Rotterdam. I left at 8am in the morning, it was still darkish. Soon I was cycling down the Amstel river, the light was dim and the air was crisp.
 
-![](bike-ride-the-old-waters-next-to-Gouda-bike-at-the-amstel_423.jpg)
+![](bike-ride-the-old-waters-next-to-Gouda-amstel_423.jpg)
 
 The first town I reached is Ouderkerk: it was cold but clear and the sun was on the rise. A gorgeous day!
 
@@ -23,7 +23,7 @@ After Uithoorn, a few wrong choices and some road-blocks took me off the right c
 ![](bike-ride-the-old-waters-next-to-Gouda-oudewater-outside-bar_423.jpg)
 
 After lunch I went in and sat for a coffee. I didn't know that it would turn out to be the funniest bit of the journey. I ordered a cappuccino; the aged lady promptly brought me an espresso and a creamer cup. "That's how we do it here", she explained with a big smile.
-It was as early as noon, but a couple of old friends were already drinking beer and laughing their Sunday away. Next to them, and old farmer with impressive gnarled hands. They started to chat to me in Dutch and to awake in growing interest as I answered through: "You cycled from Amsterdam?? You are Italian?? You come from Rome?? What does AS in front of 'AS Roma' means??"
+It was as early as noon, but a couple of old friends were already drinking beer and laughing their Sunday away. Next to them, and old farmer with impressive gnarled hands. They started to chat to me in Dutch and to awake in growing interest as I answered through: "You cycled from Amsterdam?? You are Italian?? You come from Rome?? What does AS in front of 'AS Roma' mean??"
 
 (They really asked the last one.)
 
