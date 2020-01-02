@@ -2,7 +2,7 @@
 title: So On Zeeburg Island
 date: 2013-03-12
 summary: "Not all rides need to cover hundred of kilometers."
-summaryImage: "bike-ride-so-on-zeeburg-island-lake-with-electicity-pylon_423.jpg"
+summaryImage: "bike-ride-so-on-zeeburg-electicity-pylon_423.jpg"
 tags: ["Amsterdam", "The Netherlands", "Bicycle"]
 ---
 
@@ -24,5 +24,5 @@ Buildings are very interesting, built to gather as much light as they can. Look 
 
 That lake is actually artificial like anything around it. There is one huge electricity pylon right in the middle of it, and what struck me is that it fits PERFECTLY. I think the lake would even look incomplete without it. Don't you think?
 
-![](bike-ride-so-on-zeeburg-island-lake-with-electicity-pylon_423.jpg)
+![](bike-ride-so-on-zeeburg-electicity-pylon_423.jpg)
 
