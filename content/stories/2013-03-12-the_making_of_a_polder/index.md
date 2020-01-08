@@ -1,12 +1,12 @@
 ---
 title: The Making Of A Polder
 date: 2013-03-12
-summary: "Once upon a time, in Amsterdam, there was a Film Museum in the Vondelpark."
+summary: "Have you ever wondered how polders are born?"
 summaryImage: "the-making-of-a-polder-weesp-fort_423.jpg"
 tags: ["Weesp", "The Netherlands", "Bicycle"]
 ---
 
-Have you ever wondered how [polders](http://en.wikipedia.org/wiki/Land_reclamation) are born. For those of you who might not know, a polder is drying the hell out of a water area (such as a lake or portion of the sea). The Netherlands boost some 3000 polders.
+Have you ever wondered how [polders](http://en.wikipedia.org/wiki/Land_reclamation) are born? For those of you who might not know, a polder is drying the hell out of a water area (such as a lake or portion of the sea). The Netherlands boost some 3000 polders.
 
 ![](the-making-of-a-polder_353.jpg)
 

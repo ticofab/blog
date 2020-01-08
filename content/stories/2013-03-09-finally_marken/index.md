@@ -1,7 +1,7 @@
 ---
 title: Finally Marken
 date: 2013-03-09
-summary: "Once upon a time, in Amsterdam, there was a Film Museum in the Vondelpark."
+summary: "Among all the bike rides around Amsterdam, this outta be one of my favorites."
 summaryImage: "marken-is-conquered-wooden-houses_344.jpg"
 tags: ["Markem", "The Netherlands", "Bicycle"]
 ---
