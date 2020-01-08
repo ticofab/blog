@@ -94,7 +94,7 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: name.surname@domain.com
+      link: fabio@ticofab.io
       title: Email
     # option to specify your linkedin profile in the footer
     linkedin: 
