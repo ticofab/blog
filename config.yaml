@@ -93,17 +93,29 @@ params:
     # option to specify the logo in the footer
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
-    email: fabio@ticofab.io
+    email: 
+      link: name.surname@domain.com
+      title: Email
     # option to specify your linkedin profile in the footer
-    linkedin: https://www.linkedin.com/in/ticofab/
-    # option to specify your facebook account in the footer; **uncomment** the below line to show in footer
-    # facebook: your.username
-    # option to specify your github account in the footer; **uncomment** the below line to show in footer
-    github: ticofab
-    # option to specify your twitter username in the footer; **uncomment** the below line to show in footer
-    twitter: ticofab
-    # option to specify your instagram username in the footer; **uncomment** the below line to show in footer
-    instagram: ticofab
+    linkedin: 
+      link: https://www.linkedin.com/in/ticofab/
+      title: LinkedIn
+    # option to specify your facebook account in the footer; 
+    # facebook: 
+    #  link: your.username
+    #  title: Facebook
+    # option to specify your github account in the footer; 
+    github: 
+      link: ticofab
+      title: Github
+    # option to specify your twitter username in the footer; 
+    twitter: 
+      link: ticofab
+      title: Twitter
+    # option to specify your instagram username in the footer; 
+    instagram: 
+      link: ticofab
+      title: Instagram
     # option to specify the copyright in the footer
     copyright: Fabio Tiriticco - 2020
 
@@ -112,33 +124,3 @@ languages:
   en:
     languageName:       English
     weight:             1
-  ru:
-    languageName:       Russian
-    weight:             2
-    # When Specifying different parameters for a different language 
-    # you need to specify all the mandatory sub-parameters as well.
-    # E.g.: if you specify the "homepage" parameter then you need to
-    #       specify all mandatory sub-parameters, e.g.: "title". 
-    # See example below:
-    params:
-      homepage:
-        title: Julia белая краска
-        subtitle: Персональный сайт и блог
-        image: "/images/avataaars.png" # worker.svg 
-        imageWidth: 500px
-      
-      # Some sub-parameters of the "footer" parameter
-      # can be omitted because the code allows for them to be 
-      # missed but they will treated as they do not exist,
-      # i.e., the parameters of the default language
-      # won't be inherited.
-      footer:
-        logo: "/images/refresh-square.svg"
-        email: имя.фамилия@домен.com
-        linkedin: https://www.linkedin.com/your_linkedin_profile/
-        # facebook: your.username
-        # twitter: username
-        # instagram: username
-        # github: username
-        copyright: Julia белая краска - 2019
-      
