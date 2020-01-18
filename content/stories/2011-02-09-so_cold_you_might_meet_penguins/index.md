@@ -3,6 +3,7 @@ title: So Cold You Might Meet Penguins
 date: 2011-02-09
 summary: "Does anyone remember the hole in the ozone layer?"
 summaryImage: "many-penguins_345.jpg"
+keepImageRatio: true
 tags: ["Chile", "Punta Arenas"]
 ---
 

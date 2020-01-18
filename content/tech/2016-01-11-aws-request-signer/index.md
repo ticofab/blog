@@ -3,6 +3,7 @@ title: AWS Request Signer in Scala
 date: 2016-01-11T23:53:00+01:00
 summary: "Scala library to authenticate your HTTP requests to AWS services."
 summaryImage: "2016-01-11-aws-request-signer-sample-image.jpg"
+keepImageRatio: true
 tags: [scala, amazon web services, aws]
 ---
 

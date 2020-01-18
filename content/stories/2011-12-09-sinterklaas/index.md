@@ -3,6 +3,7 @@ title: Sinterklaas
 date: 2011-12-09
 summary: "Sinterklaas notably arrives in November on a steam boat from Spain."
 summaryImage: "sint-in-amsterdam_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

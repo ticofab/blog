@@ -3,6 +3,7 @@ title: Merry Christmas 2011
 date: 2011-12-25
 summary: "Time with family? Lots of food?"
 summaryImage: "christmas-tree-italy_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

@@ -3,6 +3,7 @@ title: Circus Maximum
 date: 2011-10-17
 summary: "A few beers, a few friends, a few guitars, maybe a frisbee."
 summaryImage: "circo-massimo-rome_435.jpg"
+keepImageRatio: true
 tags: ["Circus Maximum", "Rome"]
 ---
 

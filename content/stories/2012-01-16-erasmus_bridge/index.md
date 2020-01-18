@@ -3,6 +3,7 @@ title: Erasmus Bridge
 date: 2012-01-16
 summary: "It is nowadays one of the symbols of Rotterdam."
 summaryImage: "erasmus-bridge_423.jpg"
+keepImageRatio: true
 tags: ["Rotterdam", "The Netherlands"]
 ---
 

@@ -3,6 +3,7 @@ title: Scala Play server with ReactJS and RefluxJS
 date: 2015-07-29T23:53:00+01:00
 summary: "A simple Scala/Play server using WebJars, ReactJS and RefluxJS for the frontend."
 summaryImage: "2015-07-29-last-button-clicked.png"
+keepImageRatio: true
 tags: [scala, play, webjars, refluxjs, reactjs]
 ---
 

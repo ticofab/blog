@@ -3,6 +3,7 @@ title: Pimp my Bike
 date: 2011-11-15
 summary: "I appeared on the November issue of Amsterdam Magazine, a 50.000 copies, English-speaking monthly!"
 summaryImage: "pimp-my-bike-artist_376.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

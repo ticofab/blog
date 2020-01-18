@@ -3,6 +3,7 @@ title: Goodbye Australia
 date: 2010-12-02
 summary: "It was nice meeting you. Next time we'll become friends."
 summaryImage: "federationvagabond.jpg"
+keepImageRatio: true
 tags: ["Australia", "Melbourne"]
 ---
 

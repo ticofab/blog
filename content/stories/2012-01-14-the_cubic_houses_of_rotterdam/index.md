@@ -3,6 +3,7 @@ title: The Cubic Houses of Rotterdam
 date: 2012-01-14
 summary: "Houses come in all forms and shape, nowadays."
 summaryImage: "cubic-house-pencil-house_423.jpg"
+keepImageRatio: true
 tags: ["Rotterdam", "The Netherlands"]
 ---
 

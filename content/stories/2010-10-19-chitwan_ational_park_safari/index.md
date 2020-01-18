@@ -3,6 +3,7 @@ title: Chitwan National Park Safari
 date: 2010-10-19
 summary: "Chitwan is very different than the Nepal I've seen so far."
 summaryImage: "bimboaltalena_blog.jpg"
+keepImageRatio: true
 tags: ["nepal", "chitwan"]
 ---
 

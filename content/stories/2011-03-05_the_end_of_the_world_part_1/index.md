@@ -3,6 +3,7 @@ title: The End of The World - Part 1
 date: 2011-03-05
 summary: "Argentinians can't contain their love for the national color."
 summaryImage: "argentinian-flag-ushuaia_407.jpg"
+keepImageRatio: true
 tags: ["Argentina", "Ushuaia"]
 ---
 

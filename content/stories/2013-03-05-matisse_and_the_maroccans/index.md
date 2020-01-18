@@ -3,6 +3,7 @@ title: Matisse and the Maroccans
 date: 2013-03-0
 summary: "One of the problems of art on the web is that no-one has a clue about the dimensions."
 summaryImage: "matisse-the-maroccans_374.jpg"
+keepImageRatio: true
 tags: ["Matisse", "Art"]
 ---
 

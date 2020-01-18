@@ -3,6 +3,7 @@ title: Environmental Changes
 date: 2012-01-27
 summary: "I have drafted down a few reforms and technological introductions for this country."
 summaryImage: "amsterdam-environmental-changes-umbrella_376.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

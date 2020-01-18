@@ -3,6 +3,7 @@ title: Picasso And The Mandolin
 date: 2013-03-19
 summary: "I just think it's a really cool painting."
 summaryImage: "picasso-girl-with-a-mandolin_423.jpg"
+keepImageRatio: true
 tags: ["Art"]
 ---
 

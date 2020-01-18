@@ -3,6 +3,7 @@ title: An Aboriginal Journey
 date: 2010-11-27
 summary: "They had never known the concept of property nor fences."
 summaryImage: "perthbus.jpg"
+keepImageRatio: true
 tags: ["Australia", "Perth", "Melbourne"]
 ---
 

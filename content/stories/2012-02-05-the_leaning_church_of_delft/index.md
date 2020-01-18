@@ -3,6 +3,7 @@ title: The Leaning Church of Delft
 date: 2012-02-05
 summary: "Which is the most famous leaning structure of the world?"
 summaryImage: "delft-the-leaning-church_376.jpg"
+keepImageRatio: true
 tags: ["Delft", "The Netherlands"]
 ---
 

@@ -3,6 +3,7 @@ title: A Countercurrent Point of View on Snow
 date: 2011-10-28
 summary: "This is the view from my room in Amsterdam right now."
 summaryImage: "amsterdam-snow_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

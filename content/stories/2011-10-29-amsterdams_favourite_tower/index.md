@@ -3,6 +3,7 @@ title: Amsterdam Favourite Tower
 date: 2011-10-29
 summary: "Just out of the window, my favourite tower of Amsterdam."
 summaryImage: "amsterdam-oudeschans-tower_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

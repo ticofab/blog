@@ -3,6 +3,7 @@ title: Scala Days 2019 with the Lunatech crew!
 date: 2019-07-19T23:53:00+01:00
 summary: "My first Scala Days was the 10th year anniversary"
 summaryImage: "lunatech-let-luna-shy-scala-days.png"
+keepImageRatio: true
 tags: [scala, akka, akka-http, Websocket]
 ---
 

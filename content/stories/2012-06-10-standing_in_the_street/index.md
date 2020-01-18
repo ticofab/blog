@@ -3,6 +3,7 @@ title: Standing In The Street
 date: 2012-06-10
 summary: "It was night and cold."
 summaryImage: "standing-in-the-street_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

@@ -3,6 +3,7 @@ title: A Cross Versus The Time
 date: 2013-03-09
 summary: "Wind, rain, hail, snow and sheep droppings hit relentlessly this cross for almost four centuries."
 summaryImage: "texel-a-cross-versus-the-time-detail_423.jpg"
+keepImageRatio: true
 tags: ["Texel", "The Netherlands", "Bicycle"]
 ---
 

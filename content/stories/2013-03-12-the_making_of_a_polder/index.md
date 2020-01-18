@@ -3,6 +3,7 @@ title: The Making Of A Polder
 date: 2013-03-12
 summary: "Have you ever wondered how polders are born?"
 summaryImage: "the-making-of-a-polder-weesp-fort_423.jpg"
+keepImageRatio: true
 tags: ["Weesp", "The Netherlands", "Bicycle"]
 ---
 

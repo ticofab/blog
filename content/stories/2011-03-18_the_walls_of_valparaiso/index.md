@@ -3,6 +3,7 @@ title: The Walls of Valparaiso
 date: 2011-03-18
 summary: "Everywhere is color and graffiti art."
 summaryImage: "apaga-la-tele-vive-tu-vida_374.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso"]
 ---
 

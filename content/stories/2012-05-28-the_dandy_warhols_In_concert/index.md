@@ -3,6 +3,7 @@ title: The Dandy Warhols in Concert
 date: 2012-05-28
 summary: "I was in love with the keyboard player of The Dandy Warhols."
 summaryImage: "the-dandy-warhols-in-concert_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

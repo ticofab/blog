@@ -3,6 +3,7 @@ title: Kathmandu Impressions
 date: 2010-10-19
 summary: "I've been 5 days away from any electricity."
 summaryImage: "dome_blog.jpg"
+keepImageRatio: true
 tags: ["nepal", "kathmandu"]
 ---
 

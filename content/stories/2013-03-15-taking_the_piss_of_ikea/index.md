@@ -3,6 +3,7 @@ title: Taking The Piss Out Of Ikea
 date: 2013-03-15
 summary: "I was amazed by Dutch tunnels for the second time in my life."
 summaryImage: "bike-ride-taking-the-piss-of-ikea_394.jpg"
+keepImageRatio: true
 tags: ["Bicycle", "The Netherlands"]
 ---
 

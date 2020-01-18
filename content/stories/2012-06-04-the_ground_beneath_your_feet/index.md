@@ -3,6 +3,7 @@ title: The Ground Beneath Your Feet
 date: 2012-06-04
 summary: "We never really realize how important the ground beneath our feet is."
 summaryImage: "the-ground-beneath-your-feet_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

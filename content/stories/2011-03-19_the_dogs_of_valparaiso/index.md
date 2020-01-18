@@ -3,6 +3,7 @@ title: The Dogs of Valparaiso
 date: 2011-03-19
 summary: "There are a zillion dogs in Valparaiso."
 summaryImage: "valparaiso-dogs-anibal-pinto_423.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso"]
 ---
 

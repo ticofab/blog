@@ -3,6 +3,7 @@ title: The Road To A Roadtrip
 date: 2010-11-12
 summary: "This is the only way to hear the breath of the land."
 summaryImage: "roadsinglelane_b.jpg"
+keepImageRatio: true
 tags: ["Australia", "Perth"]
 ---
 

@@ -3,6 +3,7 @@ title: With Love From Amsterdam
 date: 2012-04-18
 summary: "I put it into a calendar I created for my friends and family."
 summaryImage: "with-love-from-amsterdam_416.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

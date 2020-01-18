@@ -3,6 +3,7 @@ title: His Imperial Highness, Part 1
 date: 2010-10-09
 summary: "Back in one piece from the 17-days trek in Nepal."
 summaryImage: "porter.jpg"
+keepImageRatio: true
 tags: ["nepal", "everest trek"]
 ---
 

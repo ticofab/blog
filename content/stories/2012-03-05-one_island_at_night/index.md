@@ -3,6 +3,7 @@ title: One Island At Night
 date: 2012-03-05
 summary: "All the buildings in the picture stand on an artificial island."
 summaryImage: "amsterdam-oosterdokseiland-at-night_422.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

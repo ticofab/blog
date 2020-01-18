@@ -3,6 +3,7 @@ title: Republique-Beaux Arts
 date: 2011-10-21
 summary: "I never manged to get in there, maybe because at nights it looks like a haunted manor."
 summaryImage: "lille-place-de-la-republique_372.jpg"
+keepImageRatio: true
 tags: ["Lille", "France"]
 ---
 

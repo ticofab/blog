@@ -3,6 +3,7 @@ title: Valparaiso, Chile
 date: 2010-12-09
 summary: "The journey from Australia to South America has been the longest of my life yet."
 summaryImage: "casevalpo_242.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso"]
 ---
 

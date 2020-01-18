@@ -3,6 +3,7 @@ title: Vondelpark Blue
 date: 2012-01-27
 summary: "From an idea of Steve McQueen, the lights in Vondelpark were all changed to a bluesy blue."
 summaryImage: "amsterdam-vondelpark-blue-steve-mcqueen-street_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

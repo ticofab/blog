@@ -3,6 +3,7 @@ title: The New Apple Church in Amsterdam
 date: 2012-03-15
 summary: "A new religion seems to be on the rise."
 summaryImage: "apple-store-amsterdam_395.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

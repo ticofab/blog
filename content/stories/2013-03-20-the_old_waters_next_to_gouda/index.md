@@ -3,6 +3,7 @@ title: The Old Waters Next To Gouda
 date: 2013-03-20
 summary: "It was cold but clear and the sun was on the rise. A gorgeous day!"
 summaryImage: "bike-ride-the-old-waters-next-to-Gouda-amstel_423.jpg"
+keepImageRatio: true
 tags: ["Gouda", "The Netherlands", "Bicycle"]
 ---
 

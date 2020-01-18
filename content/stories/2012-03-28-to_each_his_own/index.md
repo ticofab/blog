@@ -3,6 +3,7 @@ title: To Each His Own
 date: 2012-03-28
 summary: "Each country has its own problems."
 summaryImage: "problems-of-the-rich-west_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

@@ -3,6 +3,7 @@ title: Simple Play Websocket Server
 date: 2015-07-09T23:53:00+01:00
 summary: "A tutorial about building a simple Websocket server with Play Framework."
 summaryImage: "simple-play-websocket-server-summary-image.png"
+keepImageRatio: true
 tags: ["custom_image", "custom_summary", "code", "leaf_bundle"]
 ---
 

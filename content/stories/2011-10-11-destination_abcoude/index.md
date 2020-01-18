@@ -3,6 +3,7 @@ title: Destination Abcoude
 date: 2011-10-11
 summary: "The sweet flavor of discovery."
 summaryImage: "abcoude-lake-abcoudermeer_384.jpg"
+keepImageRatio: true
 tags: ["Abcoude", "The Netherlands", "Bicycle"]
 ---
 

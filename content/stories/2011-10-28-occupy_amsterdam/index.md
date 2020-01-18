@@ -3,6 +3,7 @@ title: Occupy Amsterdam
 date: 2011-10-28
 summary: "Amsterdam was a top place for the Occupy movement."
 summaryImage: "occupy-amsterdam-assembly_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

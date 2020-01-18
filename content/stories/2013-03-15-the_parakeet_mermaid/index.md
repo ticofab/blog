@@ -3,6 +3,7 @@ title: The Parakeet Marmaid
 date: 2013-03-15
 summary: "I have made a little garden all around me, where I can walk."
 summaryImage: "art-henri-matisse-the-parakeet-and-the-mermaid_365.jpg"
+keepImageRatio: true
 tags: ["Art", "The Netherlands"]
 ---
 

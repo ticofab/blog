@@ -3,6 +3,7 @@ title: Las Vegas Never Sleeps
 date: 2012-03-11
 summary: "I entered Las Vegas on a Greyhound bus on an August night."
 summaryImage: "las-vegas-entering-5am-423.jpg"
+keepImageRatio: true
 tags: ["Las Vegas"]
 ---
 

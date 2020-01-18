@@ -3,6 +3,7 @@ title: Cows And Warfare
 date: 2011-10-17
 summary: "This little bunker was just another one of the infinte gems that this country will let you discover only by bike."
 summaryImage: "uk-canada-cow-bunker_423.jpg"
+keepImageRatio: true
 tags: ["The Netherlands", "Bicycle"]
 ---
 

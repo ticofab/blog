@@ -3,6 +3,7 @@ title: Esperance Hopes
 date: 2010-11-12
 summary: "I regarded them as proper signatures on the road."
 summaryImage: "profilepic_b.jpg"
+keepImageRatio: true
 tags: ["Australia", "Esperance", "Road trip"]
 ---
 

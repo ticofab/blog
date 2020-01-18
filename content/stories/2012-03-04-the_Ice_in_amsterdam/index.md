@@ -3,6 +3,7 @@ title: The Ice in Amsterdam
 date: 2012-03-04
 summary: "Winter is gone--long life to the winter!"
 summaryImage: "ice-in-amsterdam-reguliersgracht-skating_376.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

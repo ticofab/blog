@@ -4,6 +4,7 @@ excerpt: "The first post on my Jeykill blog."
 date: 2015-06-19T15:16:18+01:00
 summary: My first post on Jekyll
 summaryImage: "sample-image-5.jpg"
+keepImageRatio: true
 tags: [misc]
 ---
 

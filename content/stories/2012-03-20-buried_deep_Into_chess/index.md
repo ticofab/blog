@@ -3,6 +3,7 @@ title: Buried Deep Into Chess
 date: 2012-03-20
 summary: "Five friends in a lively Christmas Market."
 summaryImage: "buried-deep-into-chess_423.jpg"
+keepImageRatio: true
 tags: ["Reims", "France"]
 ---
 

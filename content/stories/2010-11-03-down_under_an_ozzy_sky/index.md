@@ -3,6 +3,7 @@ title: Down Under an Ozzy Sky
 date: 2010-11-03
 summary: "I desperately wanted to buy a new MacBook Pro."
 summaryImage: "fiore_b.jpg"
+keepImageRatio: true
 tags: ["Australia", "Brisbane"]
 ---
 

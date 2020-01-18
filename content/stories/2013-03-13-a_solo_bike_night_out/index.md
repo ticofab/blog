@@ -3,6 +3,7 @@ title: A Solo Bike Night Out
 date: 2013-03-13
 summary: "Check how stylish my bike looked like when fully built for the very first time."
 summaryImage: "bike-ride-a-solo-bike-night-out-equipped-bike_423.jpg"
+keepImageRatio: true
 tags: ["Haarlem", "The Netherlands", "Bicycle"]
 ---
 

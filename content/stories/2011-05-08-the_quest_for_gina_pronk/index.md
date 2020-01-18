@@ -3,6 +3,7 @@ title: The Quest For Gina Pronk
 date: 2011-05-08
 summary: "You are probably wondering who Gina Pronk is. I wondered the same for a long time."
 summaryImage: "stad-van-mijn-hart-dedication_362.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

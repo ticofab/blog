@@ -3,6 +3,7 @@ title: A Sublime Man Hero
 date: 2013-03-03
 summary: "If you walk close, you'll be completely surrounded by its saturated red and that will be it."
 summaryImage: "art_vir_heroicus_sublimis_393.jpg"
+keepImageRatio: true
 tags: ["Art"]
 ---
 

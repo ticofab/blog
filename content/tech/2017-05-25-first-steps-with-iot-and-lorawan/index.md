@@ -3,6 +3,7 @@ title: First steps with IoT and LoRaWAN
 date: 2017-05-25T23:53:00+01:00
 summary: "First steps into the IoT world."
 summaryImage: "2015-07-29-sodaq.jpg"
+keepImageRatio: true
 tags: [iot, lora, LoPy, Sodaq]
 ---
 

@@ -3,6 +3,7 @@ title: Sandy Fun on Fraser Island
 date: 2010-11-04
 summary: "I felt actually ready for an easy, laid back, lazy touristic experience."
 summaryImage: "dunedrivint_b.jpg"
+keepImageRatio: true
 tags: ["Australia", "Fraser Island"]
 ---
 

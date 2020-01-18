@@ -3,6 +3,7 @@ title: The Fall of Icarus
 date: 2013-02-29
 summary: "I was walking through the rooms, when I raised my eyes and saw this painting on the ceiling."
 summaryImage: "icaro-falls-from-the-sky_706.jpg"
+keepImageRatio: true
 tags: ["Paris", "Art"]
 ---
 

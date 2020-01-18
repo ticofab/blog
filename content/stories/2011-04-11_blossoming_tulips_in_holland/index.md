@@ -3,6 +3,7 @@ title: Blossoming Tulips in Holland
 date: 2011-04-11
 summary: "Mid-April, blossoming season in the Netherlands."
 summaryImage: "tulip-fields-holland_435.jpg"
+keepImageRatio: true
 tags: ["amsterdam", "tulips", "The Netherlands"]
 ---
 

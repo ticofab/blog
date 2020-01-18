@@ -3,6 +3,7 @@ title: New York City Taxi
 date: 2012-04-29
 summary: "What color are those?"
 summaryImage: "new-york-city-taki_423.jpg"
+keepImageRatio: true
 tags: ["New York"]
 ---
 

@@ -3,6 +3,7 @@ title: When Italy and Chile Unite
 date: 2010-12-30
 summary: "Cooking together when we meet is a tradition that we try to honour whenever applicable."
 summaryImage: "palacio-de-la-moneda_286.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso", "Santiago"]
 ---
 

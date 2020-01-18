@@ -3,6 +3,7 @@ title: A Bright, Not So White Christmas
 date: 2010-12-27
 summary: "You can't imagine the weirdness of a hot, summery Christmas until you live it."
 summaryImage: "babbomail.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso", "Santiago"]
 ---
 

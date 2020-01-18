@@ -3,6 +3,7 @@ title: The Surfing End
 date: 2010-11-18
 summary: "So there I am, alone again."
 summaryImage: "stadvanmijnhart.jpg"
+keepImageRatio: true
 tags: ["Australia", "Perth"]
 ---
 

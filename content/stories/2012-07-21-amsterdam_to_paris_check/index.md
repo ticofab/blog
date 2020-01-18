@@ -3,6 +3,7 @@ title: Amsterdam to Paris - Check! ✅
 date: 2012-07-21
 summary: "Cycling through France has been the best part of it all."
 summaryImage: "amsterdam-paris-bike-touring-zeeland-dykes-2_423.jpg"
+keepImageRatio: true
 tags: ["Paris", "The Netherlands", "Bicycle"]
 ---
 

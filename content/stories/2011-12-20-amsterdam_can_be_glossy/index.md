@@ -3,6 +3,7 @@ title: Amsterdam Can Be Glossy
 date: 2011-12-20
 summary: "The Sky Lounge is a cozy, expensive bar with an amazing view on the city."
 summaryImage: "glossy-sky-lounge-amsterdam_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

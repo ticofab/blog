@@ -3,6 +3,7 @@ title: My ABC of Travel
 date: 2012-03-01
 summary: "The learning feeling. Seeing things that you will carry with you forever."
 summaryImage: "travel-abc-hiroshima-tshirt_423.jpg"
+keepImageRatio: true
 tags: ["Travel"]
 ---
 

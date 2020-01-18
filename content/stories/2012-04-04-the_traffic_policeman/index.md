@@ -3,6 +3,7 @@ title: The Traffic Policeman
 date: 2012-04-04
 summary: "An urban figure from other times."
 summaryImage: "the-traffic-policeman-in-rome_423.jpg"
+keepImageRatio: true
 tags: ["Rome", "Italy"]
 ---
 

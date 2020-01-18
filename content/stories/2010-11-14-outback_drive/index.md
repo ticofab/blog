@@ -3,6 +3,7 @@ title: Outback Drive
 date: 2010-11-14
 summary: "The drive to the next destination was the toughest so far."
 summaryImage: "outbackdrive_b.jpg"
+keepImageRatio: true
 tags: ["Australia", "Road trip"]
 ---
 

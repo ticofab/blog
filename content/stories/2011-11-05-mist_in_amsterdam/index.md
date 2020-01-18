@@ -3,6 +3,7 @@ title: Mist in Amsterdam
 date: 2011-11-05
 summary: "Sometimes it gets misty here."
 summaryImage: "amsterdam-spooky-library-mist_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

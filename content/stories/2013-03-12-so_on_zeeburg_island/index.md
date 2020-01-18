@@ -3,6 +3,7 @@ title: So On Zeeburg Island
 date: 2013-03-12
 summary: "Not all rides need to cover hundred of kilometers."
 summaryImage: "bike-ride-so-on-zeeburg-electicity-pylon_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands", "Bicycle"]
 ---
 

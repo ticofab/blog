@@ -3,6 +3,7 @@ title: Lonesome Begijnhof
 date: 2011-11-29
 summary: "The Begijnhof will stun you as you walk in."
 summaryImage: "begijnhof-lonesome-statue_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

@@ -3,6 +3,7 @@ title: Chilean Onions
 date: 2010-12-12
 summary: "This is kinda awakening my latin roots."
 summaryImage: "vistavalpo_341.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso"]
 ---
 

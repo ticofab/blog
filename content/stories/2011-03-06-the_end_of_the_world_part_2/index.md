@@ -3,6 +3,7 @@ title: The End of The World - Part 2
 date: 2011-03-06
 summary: "Despite my grumbles, we agreed on walking all the way back."
 summaryImage: "ushuaia-glacier_370.jpg"
+keepImageRatio: true
 tags: ["Argentina", "Ushuaia"]
 ---
 

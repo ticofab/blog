@@ -3,6 +3,7 @@ title: Over The Highway
 date: 2011-11-06
 summary: "Getting away from the city buildings is one of the main purposes."
 summaryImage: "over-the-highway_339.jpg"
+keepImageRatio: true
 tags: ["The Netherlands", "Bicycle"]
 ---
 

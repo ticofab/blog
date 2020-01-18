@@ -3,6 +3,7 @@ title: The Making Of Another Polder
 date: 2013-03-17
 summary: "A couple of new discoveries just in my back-yard."
 summaryImage: "bike-ride-the-making-of-a-polder-ijburg_238.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands", "Bicycle"]
 ---
 

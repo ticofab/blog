@@ -3,6 +3,7 @@ title: Rush
 date: 2010-09-19
 summary: "I got my backpack Ferrino back!"
 summaryImage: "rush02.jpg"
+keepImageRatio: true
 tags: ["India", "New Delhi"]
 ---
 

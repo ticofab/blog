@@ -3,6 +3,7 @@ title: Akka Streams Partition Example
 date: 2018-07-14T23:53:00+01:00
 summary: "An example usage of Akka Streams Partition Graph Stage"
 summaryImage: "2018-07-14-even-odd-flow.png"
+keepImageRatio: true
 tags: [scala, akka, akka-streams, akka-stream]
 ---
 

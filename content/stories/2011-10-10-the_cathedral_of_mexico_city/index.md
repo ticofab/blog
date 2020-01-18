@@ -3,6 +3,7 @@ title: The Cathedral of Mexico City
 date: 2011-10-10
 summary: "One step inside Mexico city's Cathedral will leave you almost blind."
 summaryImage: "mexico-city-cathedral_423.jpg"
+keepImageRatio: true
 tags: ["Mexico"]
 ---
 

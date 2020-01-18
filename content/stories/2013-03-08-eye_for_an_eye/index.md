@@ -3,6 +3,7 @@ title: Eye For An Eye
 date: 2013-03-08
 summary: "The Code of Hammurabi is one of the oldest law collection that we know of."
 summaryImage: "art-eye-for-an-eye-entire-hammurabi-stele-zoom_423.jpg"
+keepImageRatio: true
 tags: ["Art", "Paris"]
 ---
 

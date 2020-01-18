@@ -3,6 +3,7 @@ title: His Imperial Highness, Part 2
 date: 2010-10-10
 summary: "The altitude sickness is gone."
 summaryImage: "donkeybridge.jpg"
+keepImageRatio: true
 tags: ["nepal", "everest trek"]
 ---
 

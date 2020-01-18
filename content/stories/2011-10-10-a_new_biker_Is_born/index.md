@@ -3,6 +3,7 @@ title: A New Biker Is Born
 date: 2011-10-10
 summary: "I was only a handful of kilomters away but it felt like I had gone as far as Patagonia again."
 summaryImage: "koga-miyata_423.jpg"
+keepImageRatio: true
 tags: ["Muiden", "The Netherlands", "Bicycle"]
 ---
 

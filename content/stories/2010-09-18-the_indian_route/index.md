@@ -3,6 +3,7 @@ title: The Indian Route
 date: 2010-09-18
 summary: "The first message from my six months off work."
 summaryImage: "entry4.jpg"
+keepImageRatio: true
 tags: ["amsterdam", "india"]
 ---
 

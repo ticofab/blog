@@ -3,6 +3,7 @@ title: Selfportrait in Death
 date: 2013-03-07
 summary: "His life was such a series of tragic events that one wonders how he made it this far without antidepressants."
 summaryImage: "art-munch-selfportrait_423.jpg"
+keepImageRatio: true
 tags: ["Art"]
 ---
 

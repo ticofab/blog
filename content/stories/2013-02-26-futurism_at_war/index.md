@@ -3,6 +3,7 @@ title: Futurism At War
 date: 2013-02-26
 summary: "As World War I broke out in August 1914, Futurists planned public rallies in support of Italian participation."
 summaryImage: "severini-armored-train-in-action_423.jpg"
+keepImageRatio: true
 tags: ["New York", "Art"]
 ---
 

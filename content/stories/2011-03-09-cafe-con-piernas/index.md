@@ -3,6 +3,7 @@ title: Café Con Piernas
 date: 2011-03-09
 summary: "Claudia was more than happy to have a chat with us."
 summaryImage: "cafe-con-piernas_423.jpg"
+keepImageRatio: true
 tags: ["Chile", "Santiago"]
 ---
 

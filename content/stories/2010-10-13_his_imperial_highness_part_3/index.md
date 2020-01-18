@@ -3,6 +3,7 @@ title: His Imperial Highness, Part 3
 date: 2010-10-13
 summary: "Third and last part of the Everest Trek."
 summaryImage: "DSC05482.jpg"
+keepImageRatio: true
 tags: ["nepal", "everest trek"]
 ---
 

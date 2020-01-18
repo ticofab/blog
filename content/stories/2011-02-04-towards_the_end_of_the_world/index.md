@@ -3,6 +3,7 @@ title: Towards The End Of The World
 date: 2011-02-04
 summary: "Guido and I stood up after only 3 hours of New Year's sleep and began packing for the next adventure."
 summaryImage: "palacio-de-la-moneda-night_360.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso", "Santiago"]
 ---
 

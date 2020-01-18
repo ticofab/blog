@@ -3,6 +3,7 @@ title: Android GPX Parsing
 date: 2016-01-06T23:53:00+01:00
 summary: "A simple library to parse GPX files, built with Android in mind."
 summaryImage: "2016-01-06-android-gpx-parsing-sample-image.png"
+keepImageRatio: true
 tags: [android, java, gpx, gps]
 ---
 

@@ -3,6 +3,7 @@ title: Torres Del Paine Through the Boot Hole
 date: 2011-02-15
 summary: "Guido's boots don't look like proper mountain boots at all."
 summaryImage: "tuna-beans-and-forks_327.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso", "Santiago"]
 ---
 

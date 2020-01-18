@@ -3,6 +3,7 @@ title: Dashain in Nepal, Part 2
 date: 2010-10-22
 summary: "I'm given a little room built on one side of the house."
 summaryImage: "2_risveglio_0_blog.jpg"
+keepImageRatio: true
 tags: ["nepal", "dashain"]
 ---
 

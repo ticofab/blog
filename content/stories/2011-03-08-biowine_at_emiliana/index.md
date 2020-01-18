@@ -3,6 +3,7 @@ title: Biowine At Emiliana
 date: 2011-03-08
 summary: "This the first beautiful sight of it from the highway."
 summaryImage: "emiliana-vineyard-chile_363.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso"]
 ---
 

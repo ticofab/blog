@@ -3,6 +3,7 @@ title: Christmas Happens in Berlin, too
 date: 2011-06-03
 summary: "Berlin is the living testimony of the atrocities that took place in Europe in the 20th century."
 summaryImage: "unter-den-linden-christmas_378.jpg"
+keepImageRatio: true
 tags: ["Berlin"]
 ---
 

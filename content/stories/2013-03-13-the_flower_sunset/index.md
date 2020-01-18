@@ -3,6 +3,7 @@ title: The Flower Sunset
 date: 2013-03-13
 summary: "This time around, this incredible sunset was our ultimate reward."
 summaryImage: "bloemendaal-beach-cyclist-at-sunset_375.jpg"
+keepImageRatio: true
 tags: ["Bloemendaal", "The Netherlands", "Bicycle"]
 ---
 

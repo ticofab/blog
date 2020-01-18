@@ -3,6 +3,7 @@ title: Distributed Websocket server with Akka HTTP
 date: 2019-06-17
 summary: "Handle Websocket connection with remote actors."
 summaryImage: "client_server_scheme.png"
+keepImageRatio: true
 tags: ["custom_image", "custom_summary", "code", "leaf_bundle"]
 ---
 

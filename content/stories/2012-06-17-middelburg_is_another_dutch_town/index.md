@@ -3,6 +3,7 @@ title: Middleburg is Another Cute Dutch Town
 date: 2012-06-17
 summary: "Amsterdam was a top place for the Occupy movement."
 summaryImage: "middelburg-is-another-dutch-town_423.jpg"
+keepImageRatio: true
 tags: ["Middelburg", "The Netherlands"]
 ---
 

@@ -3,6 +3,7 @@ title: A Striking Journey
 date: 2011-03-07
 summary: "Protesters have taken control of the bank, and don't let ferries unload."
 summaryImage: "punta-arenas-strike-ferry-blockade_435.jpg"
+keepImageRatio: true
 tags: ["Chile", "Punta Arenas"]
 ---
 

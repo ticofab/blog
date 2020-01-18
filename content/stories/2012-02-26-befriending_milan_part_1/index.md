@@ -3,6 +3,7 @@ title: Befriending Milan, Part 1
 date: 2012-02-26
 summary: "What is my take on Milan after being there as a proper tourist?"
 summaryImage: "milano-corriere-via-solferino_423.jpg"
+keepImageRatio: true
 tags: ["Italy", "Milan"]
 ---
 

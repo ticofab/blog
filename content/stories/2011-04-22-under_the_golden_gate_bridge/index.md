@@ -3,6 +3,7 @@ title: Under the Golden Gate Bridge
 date: 2011-04-11
 summary: "I decided to start publishing short stories."
 summaryImage: "under-the-golden-gate-bridge_435.jpg"
+keepImageRatio: true
 tags: ["San Francisco", "USA"]
 ---
 

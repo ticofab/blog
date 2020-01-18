@@ -3,6 +3,7 @@ title: The Elevators of Valparaiso
 date: 2011-03-20
 summary: "They still take you all the way up for an insignificant price."
 summaryImage: "valparaiso-elevators-cerro-artilleria_423.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso"]
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: Akka Http, handle Websockets with Actors
 date: 2018-08-10T23:53:00+01:00
+keepImageRatio: true
 summary: "An example usage of Websocket in Akka Http"
+keepImageRatio: true
 summaryImage: "2018-08-10-akka-http-websocket-example-sample-image.png"
 tags: [scala, akka, akka-http, Websocket]
 ---

@@ -3,6 +3,7 @@ title: Picasso's Violins And Grapes
 date: 2013-03-01
 summary: "The musical instruments seem to have been 'sliced' into multiple planes."
 summaryImage: "picasso-violin-and-grapes_423.jpg"
+keepImageRatio: true
 tags: ["Art"]
 ---
 

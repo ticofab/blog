@@ -3,6 +3,7 @@ title: Vondelpark Yellow
 date: 2011-12-06
 summary: "Yellow is a rare color in urban landscapes."
 summaryImage: "vondelpark-yellow_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

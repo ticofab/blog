@@ -3,6 +3,7 @@ title: ReactJS Tutorial with Play, Scala and WebJars.
 date: 2015-07-03T15:16:18+01:00
 summary: The official ReactJS tutorial implemented with Play Framework, using Scala and WebJars.
 summaryImage: "react-js-tutorial-with-play_scala_webjars-sample-image.png"
+keepImageRatio: true
 tags: [scala, akka, akka-streams, akka-stream, event-sourcing]
 ---
 

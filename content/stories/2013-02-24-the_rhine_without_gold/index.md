@@ -3,6 +3,7 @@ title: The Rhine Without Gold
 date: 2013-02-24
 summary: "The cycling season 2013 has officially begun!"
 summaryImage: "bike-ride-the-rhine-whitout-gold-the-rhine_423.jpg"
+keepImageRatio: true
 tags: ["Rotterdam", "The Netherlands", "Bicycle"]
 ---
 

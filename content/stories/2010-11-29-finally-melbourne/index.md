@@ -3,6 +3,7 @@ title: Finally Melbourne!
 date: 2010-11-29
 summary: "Shall I ever look for a job in Australia, Melbourne would be the place.."
 summaryImage: "heartsandwich.jpg"
+keepImageRatio: true
 tags: ["Australia", "Melbourne"]
 ---
 

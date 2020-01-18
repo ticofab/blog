@@ -3,6 +3,7 @@ title: Dashain in Nepal, Part 1
 date: 2010-10-21
 summary: "I've been 5 days away from any electricity."
 summaryImage: "1_bimbi_4_blog.jpg"
+keepImageRatio: true
 tags: ["nepal", "dashain"]
 ---
 

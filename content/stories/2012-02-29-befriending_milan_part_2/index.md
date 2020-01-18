@@ -3,6 +3,7 @@ title: Befriending Milan, Part 2
 date: 2012-02-29
 summary: "Compared to the average Italian big city, Milan is less chaotic and public transportation seems to work much better."
 summaryImage: "milano-duomo-bicycle_423.jpg"
+keepImageRatio: true
 tags: ["Italy", "Milan"]
 ---
 

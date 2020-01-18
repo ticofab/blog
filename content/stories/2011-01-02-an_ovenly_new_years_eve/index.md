@@ -3,6 +3,7 @@ title: An Ovenly New Year's Eve
 date: 2011-01-02
 summary: "The fun thing is that we kept the shop open, and people kept coming in."
 summaryImage: "plaza-anibal-pinto-full_298.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso", "Isla Negra"]
 ---
 

@@ -3,6 +3,7 @@ title: Vondelpark Red
 date: 2011-11-14
 summary: "Summer is barbecue season in the Netherlands."
 summaryImage: "amsterdam-vondelpark-red_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

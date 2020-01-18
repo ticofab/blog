@@ -3,6 +3,7 @@ title: Final Chile Impressions
 date: 2011-03-10
 summary: "A few more remarks about Chile that didn't find room in the previous entries."
 summaryImage: "gas-delivery-chile_326.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso"]
 ---
 

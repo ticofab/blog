@@ -3,6 +3,7 @@ title: Through The Autumn Mist
 date: 2013-03-17
 summary: "This ride was the last one of 2012."
 summaryImage: "bike-ride-through-the-autumn-mist-tower-somewhere_423.jpg"
+keepImageRatio: true
 tags: ["The Netherlands", "Bicycle"]
 ---
 

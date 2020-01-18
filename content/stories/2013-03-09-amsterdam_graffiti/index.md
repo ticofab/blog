@@ -3,6 +3,7 @@ title: Amsterdam Graffiti
 date: 2013-03-09
 summary: "Each street artist got a section of the wall and began his work."
 summaryImage: "amsterdam-graffiti-1_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

@@ -5,6 +5,7 @@ date: 2019-12-24T15:16:18+01:00
 modified: 2019-02-21
 summary: f(ETH, conference) = price variation
 summaryImage: "event-storming.jpeg"
+keepImageRatio: true
 tags: [scala, akka, akka-streams, akka-stream, event-sourcing]
 ---
 

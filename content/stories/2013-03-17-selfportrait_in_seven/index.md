@@ -3,6 +3,7 @@ title: Selfportrait in Seven
 date: 2013-03-17
 summary: "Marc Chagall has always been very important to me as one of his prints was hung in my parents' room."
 summaryImage: "art-marc-chagall-autoportrait-aux-sept-doigts_423.jpg"
+keepImageRatio: true
 tags: ["Art"]
 ---
 

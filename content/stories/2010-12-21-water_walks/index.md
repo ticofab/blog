@@ -3,6 +3,7 @@ title: Water Walks
 date: 2010-12-21
 summary: "Wrecked walls where black cracks become part of the colored graffiti."
 summaryImage: "cerroporteno.jpg"
+keepImageRatio: true
 tags: ["Chile", "Valparaiso"]
 ---
 

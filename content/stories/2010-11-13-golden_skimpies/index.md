@@ -3,6 +3,7 @@ title: Golden Skimpies!
 date: 2010-11-13
 summary: "They are basically waitress who only wear lingerie."
 summaryImage: "skimpies_b.jpg"
+keepImageRatio: true
 tags: ["Australia", "Kalgoorlie", "Road trip"]
 ---
 

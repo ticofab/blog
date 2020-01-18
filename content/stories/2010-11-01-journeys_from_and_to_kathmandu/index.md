@@ -3,6 +3,7 @@ title: Journeys From And To (Kathmandu)
 date: 2010-11-01
 summary: "It took us 13 hours to go back to Kathmandu."
 summaryImage: "buscompressed.jpg"
+keepImageRatio: true
 tags: ["India", "New Delhi"]
 ---
 

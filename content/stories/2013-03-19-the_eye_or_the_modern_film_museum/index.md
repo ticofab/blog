@@ -3,6 +3,7 @@ title: The Eye; or, The Modern Film Museum
 date: 2013-03-19
 summary: "Once upon a time, in Amsterdam, there was a Film Museum in the Vondelpark."
 summaryImage: "amsterdam-eye-film-museum_423.jpg"
+keepImageRatio: true
 tags: ["Delft", "The Netherlands"]
 ---
 

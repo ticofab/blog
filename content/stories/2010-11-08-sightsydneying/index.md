@@ -3,6 +3,7 @@ title: Sightsydneying!
 date: 2010-11-08
 summary: "The birthplace of a nation and its missed capital."
 summaryImage: "operahousenight_b.jpg"
+keepImageRatio: true
 tags: ["Australia", "Sydney"]
 ---
 

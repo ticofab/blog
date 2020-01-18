@@ -3,6 +3,7 @@ title: Finally Marken
 date: 2013-03-09
 summary: "Among all the bike rides around Amsterdam, this outta be one of my favorites."
 summaryImage: "marken-is-conquered-wooden-houses_344.jpg"
+keepImageRatio: true
 tags: ["Markem", "The Netherlands", "Bicycle"]
 ---
 

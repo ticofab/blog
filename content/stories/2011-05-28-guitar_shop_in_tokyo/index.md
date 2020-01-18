@@ -3,6 +3,7 @@ title: Guitar Shop in Tokyo
 date: 2011-05-28
 summary: "Tokyo has one of the highest population density in the world."
 summaryImage: "guitar-shop-tokyo_423.jpg"
+keepImageRatio: true
 tags: ["tokyo", "japan", "guitars"]
 ---
 

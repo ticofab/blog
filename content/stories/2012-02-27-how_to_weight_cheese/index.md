@@ -3,6 +3,7 @@ title: How To Weigh Cheese
 date: 2012-02-27
 summary: "This is exactly the information you need right now."
 summaryImage: "holland-gouda-cheese-weighting_423.jpg"
+keepImageRatio: true
 tags: ["Gouda", "The Netherlands"]
 ---
 

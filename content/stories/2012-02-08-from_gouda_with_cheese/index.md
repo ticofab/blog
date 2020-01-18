@@ -3,6 +3,7 @@ title: From Gouda With Cheese
 date: 2012-02-08
 summary: "Remember my post about Gouda?"
 summaryImage: "holland-gouda-town-hall_423.jpg"
+keepImageRatio: true
 tags: ["Gouda", "The Netherlands"]
 ---
 

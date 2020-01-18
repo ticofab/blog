@@ -3,6 +3,7 @@ title: Geraldton Life - Hostel
 date: 2010-11-23
 summary: "I ended up staying almost two weeks, and only because I had a damn plane to catch."
 summaryImage: "beachfront.jpg"
+keepImageRatio: true
 tags: ["Australia", "Geraldton"]
 ---
 

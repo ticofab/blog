@@ -3,6 +3,7 @@ title: After Work Ride to Enkhuizen
 date: 2013-03-19
 summary: "Among the best things of the Netherlands are the super long days that we get in spring and summer."
 summaryImage: "bike-ride-after-office-riide-musk-covered-bike_423.jpg"
+keepImageRatio: true
 tags: ["Enkhuizen", "The Netherlands", "Bicycle"]
 ---
 

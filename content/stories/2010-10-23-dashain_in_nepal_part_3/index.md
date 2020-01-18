@@ -3,6 +3,7 @@ title: Dashain in Nepal, Part 3
 date: 2010-10-23
 summary: "We never stopped eating goat and rice."
 summaryImage: "3_tika_2_blog.jpg"
+keepImageRatio: true
 tags: ["nepal", "dashain"]
 ---
 

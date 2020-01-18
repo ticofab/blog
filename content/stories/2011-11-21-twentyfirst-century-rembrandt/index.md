@@ -3,6 +3,7 @@ title: 21st Century Rembrandt
 date: 2011-11-21
 summary: "The 21st Century tribute to the guy is a tower."
 summaryImage: "amsterdam-rembrandt-tower_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

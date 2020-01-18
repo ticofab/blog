@@ -3,6 +3,7 @@ title: The Queens of The Ceiling
 date: 2012-01-02
 summary: "This bar along Prinsengracht in Amsterdam has round portraits of women."
 summaryImage: "ceiling-queens-amsterdam_423.jpg"
+keepImageRatio: true
 tags: ["Amsterdam", "The Netherlands"]
 ---
 

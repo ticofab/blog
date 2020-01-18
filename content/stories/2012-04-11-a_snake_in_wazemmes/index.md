@@ -3,6 +3,7 @@ title: A Snake in Wazemmes
 date: 2012-04-11
 summary: "Why oh why I ever left Lille?"
 summaryImage: "wazemmes-snake_423.jpg"
+keepImageRatio: true
 tags: ["Lille", "France"]
 ---
 

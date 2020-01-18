@@ -3,6 +3,7 @@ title: A Chain On The Coast
 date: 2011-11-29
 summary: "We were almost there when my chain snapped in two!"
 summaryImage: "durgerdam-bike-ride_423.jpg"
+keepImageRatio: true
 tags: ["Bicycle", "The Netherlands"]
 ---
 

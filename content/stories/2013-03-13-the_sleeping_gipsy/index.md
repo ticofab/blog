@@ -3,6 +3,7 @@ title: The Sleeping Gipsy
 date: 2013-03-13
 summary: "I had a similar painting in my house when I was a kid."
 summaryImage: "rousseau-the-sleeping-gipsy_376.jpg"
+keepImageRatio: true
 tags: ["Art"]
 ---
 

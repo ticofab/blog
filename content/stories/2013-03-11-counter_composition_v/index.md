@@ -3,6 +3,7 @@ title: Counter Composition V
 date: 2013-03-11
 summary: "You would think there are worse problems in life, but don't underestimate the power or lines."
 summaryImage: "art-theo-van-doesburg-counter-composition-v_423.jpg"
+keepImageRatio: true
 tags: ["Theo Van Doesburg", "Art"]
 ---
 
