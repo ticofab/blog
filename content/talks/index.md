@@ -10,11 +10,12 @@ showInMenu: true
 
 #### UPCOMING 2020
 
-* Rotterdam (NL), **Lunatech** - 17th January, "Tame Crypto Events with Streaming"
-* Amsterdam (NL), **Software Circus Meetup** - 23rd January, "Tame Crypto Events with Streaming"
+*Nothing scheduled at the moment!*
 
 #### 2019
 
+* Amsterdam (NL), **Software Circus Meetup** - 23rd January, "Tame Crypto Events with Streaming"
+* Rotterdam (NL), **Lunatech** - 17th January, "Tame Crypto Events with Streaming"
 * London (UK), **Scala eXchange** - 12th December, "Tame Crypto Events with Streaming"
 * Ljubljana (SI), **BeeScala** - 21st November, "Tame Crypto Events with Streaming" ([recording](https://www.youtube.com/watch?v=wk8g83XRUzQ))
 * Lyon (FR), **Scala IO** - 30th October, "Tame Crypto Events with Streaming"
