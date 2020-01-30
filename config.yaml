@@ -98,7 +98,7 @@ params:
       title: Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: https://www.linkedin.com/in/ticofab/
+      link: in/ticofab/
       title: LinkedIn
     # option to specify your facebook account in the footer; 
     # facebook: 
