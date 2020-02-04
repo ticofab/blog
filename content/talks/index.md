@@ -10,13 +10,13 @@ showInMenu: true
 
 #### UPCOMING 2020
 
-*Nothing scheduled at the moment!*
+* ScalaUA (UA), **ScalaUA** - 3rd April, "From Zero To Deep Learning With Scala"
+* Porto (PT), **Scala Swarm** - 20th June, "From Zero To Deep Learning With Scala"
 
 #### 2019
 
 * Amsterdam (NL), **Software Circus Meetup** - 23rd January, "Tame Crypto Events with Streaming"
-* Rotterdam (NL), **Lunatech** - 17th January, "Tame Crypto Events with Streaming"
-* London (UK), **Scala eXchange** - 12th December, "Tame Crypto Events with Streaming"
+* London (UK), **London Scala Community Day** - 14th December, "Tame Crypto Events with Streaming"
 * Ljubljana (SI), **BeeScala** - 21st November, "Tame Crypto Events with Streaming" ([recording](https://www.youtube.com/watch?v=wk8g83XRUzQ))
 * Lyon (FR), **Scala IO** - 30th October, "Tame Crypto Events with Streaming"
 * Amsterdam (NL), **Women in Tech Regatta** - 1st November, Panel moderator for "Staying Strong in Tech"
