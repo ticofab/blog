@@ -8,6 +8,8 @@ showInMenu: true
 
 ![Reactive Meetup](reactive-meetup-wework.jpg)
 
+{{< googlemaps 1aJnn8ir1_YotS5-GkjcMGg9bKbktqfRj >}}
+
 #### UPCOMING 2020
 
 * ScalaUA (UA), **ScalaUA** - 3rd April, "From Zero To Deep Learning With Scala"
