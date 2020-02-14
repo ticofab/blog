@@ -26,7 +26,7 @@ showInMenu: true
 * Lyon (FR), **Scala IO** - 30th October, "Tame Crypto Events with Streaming"
 * Amsterdam (NL), **Women in Tech Regatta** - 1st November, Panel moderator for "Staying Strong in Tech"
 * Antwerp (BE), **Belgian Scala User Group** - 7th November, "Tame Crypto Events with Streaming"
-* Milan (IT), **Italian Community Managers Summit** - 15th November, "Ten frustrations from the community trenches - and how to deal with them" ([recording](https://www.youtube.com/watch?v=L-32If0j0HU))
+* Milan (IT), **Italian Community Managers Summit** - 15th November, "Ten frustrations from the community trenches - and how to deal with them" ([recording](https://www.youtube.com/watch?v=_WqodKHwPk4))
 * Amsterdam (NL), **University of Amsterdam** - 15th October, "Tame Crypto Events with Streaming"
 * Krakow (PL), **React Sphere** - 9th October, "Tame Crypto Events with Streaming" ([recording](https://www.youtube.com/watch?v=P1W1CSnZdS4))
 * Lisbon (PT), **Lx Scala & Reactive** - 4th July, "Reactive From Code to Cloud"
