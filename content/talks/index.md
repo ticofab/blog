@@ -8,20 +8,19 @@ showInMenu: true
 
 ![Reactive Meetup](reactive-meetup-wework.jpg)
 
-{{< googlemaps 1aJnn8ir1_YotS5-GkjcMGg9bKbktqfRj >}}
-
 #### UPCOMING 2020
 
-* ScalaUA (UA), **ScalaUA** - 3rd April, "From Zero To Deep Learning With Scala"
 * Porto (PT), **Scala Swarm** - 20th June, "From Zero To Deep Learning With Scala"
 
 #### 2020
 
+* ScalaUA (UA), **ScalaUA** - 3rd April, "From Zero To Deep Learning With Scala"
 * Amsterdam (NL), **Software Circus Meetup** - 23rd January, "Tame Crypto Events with Streaming"
 
 #### 2019
 
 * London (UK), **London Scala Community Day** - 14th December, "Tame Crypto Events with Streaming"
+* ~~London (UK), **Scala eXchange** - 12th December, "Tame Crypto Events with Streaming"~~ *Canceled due to SkillsMatters bankrupcy*
 * Ljubljana (SI), **BeeScala** - 21st November, "Tame Crypto Events with Streaming" ([recording](https://www.youtube.com/watch?v=wk8g83XRUzQ))
 * Lyon (FR), **Scala IO** - 30th October, "Tame Crypto Events with Streaming"
 * Amsterdam (NL), **Women in Tech Regatta** - 1st November, Panel moderator for "Staying Strong in Tech"
@@ -73,7 +72,7 @@ showInMenu: true
 
 * Amsterdam (NL), **Amsterdam Scala meetup** - 20th March, "WebSockets with Scala and Play Framework"
 
-
+{{< googlemaps 1aJnn8ir1_YotS5-GkjcMGg9bKbktqfRj >}}
 
 
 
