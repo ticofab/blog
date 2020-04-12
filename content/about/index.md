@@ -6,14 +6,12 @@ showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
-Hi, I'm Fabio:
-
 ![Cycling](amsterdam-paris-bike.jpg)
 
 * Software Engineer
 * Conference Speaker
-* Organizer of ![Reactive Amsterdam](http://www.meetup.com/Reactive-Amsterdam/).
-* Organizer of the Kubernetes Community Days Amsterdam ![conference](https://cloudnative.amsterdam/).
+* Organizer of [Reactive Amsterdam](http://www.meetup.com/Reactive-Amsterdam/).
+* Organizer of the [Kubernetes Community Days Amsterdam](https://cloudnative.amsterdam/).
 
 I specialize in architectures for distributed Reactive Systems, bridging application level and cloud orchestrators like Kubernetes.
 
