@@ -7,6 +7,7 @@ keepImageRatio: true
 tags: [covid19, planning]
 ---
 
+![Planned Learning](dan-dimmock-sNwnjxm8eTY-unsplash.jpg)
 *Preview Image by [Dan Dimmock](https://unsplash.com/@dandimmock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash*
 
 Like many others, I find myself out of work during the Covid19 crisis of Spring 2020. A few other projects have been blocked as well--moving, to name one. Like pretty much everyone else in the world, I gave in to the looming uncertainty and set to wait out to see what happens. Signs of turbulence in the real estate market are palpable and if moving can be postponed, it sounds like a wise thing to do.
@@ -21,7 +22,7 @@ This post is meant to be a living "To-Learn" list. I will add/or modify items fr
 * Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*
 * Take the course *Scala Language Professional* on [Lightbend Academy](https://academy.lightbend.com)
 * Take the course *Data Engineering - Principles* on [Lightbend Academy](https://academy.lightbend.com)
-* Bake a cake for [Matteo](https://twitter.com/dj_rtl)'s birthday *(I have never baked a cake, this **is** learning for me)
+* Bake a cake for [Matteo](https://twitter.com/dj_rtl)'s birthday *(I have never baked a cake, this **is** learning for me)*
 * Spend two hours catching up with the latest changes in [Akka](https://akka.io)
 * Meditate every day with [Ten Percent](https://www.tenpercent.com/)
 * Read *[Java Performance - 2nd Edition](http://shop.oreilly.com/product/0636920272250.do)* by Scott Oaks
