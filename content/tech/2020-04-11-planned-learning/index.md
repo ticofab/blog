@@ -8,7 +8,8 @@ tags: [covid19, planning]
 ---
 
 ![Planned Learning](dan-dimmock-sNwnjxm8eTY-unsplash.jpg)
-*Preview Image by [Dan Dimmock](https://unsplash.com/@dandimmock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash*
+
+*Preview Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
 Like many others, I find myself out of work during the Covid19 crisis of Spring 2020. A few other projects have been blocked as well--moving, to name one. Like pretty much everyone else in the world, I gave in to the looming uncertainty and set to wait out to see what happens. Signs of turbulence in the real estate market are palpable and if moving can be postponed, it sounds like a wise thing to do.
 
