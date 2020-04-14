@@ -1,6 +1,6 @@
 ---
 title: Gouda, The Cheesy Town
-date: 2011-01-19
+date: 2013-03-22
 summary: "Cheese is one of the legal things that Holland is known for."
 summaryImage: "gouda-cheese-1_423.jpg"
 keepImageRatio: true
