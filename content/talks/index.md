@@ -10,11 +10,12 @@ showInMenu: true
 
 #### UPCOMING 2020
 
-* *Remote*, **ScalaLove** - 18th April, "From Zero To Deep Learning With Scala"
+
 * Porto (PT), **Scala Swarm** - 20th June, "From Zero To Deep Learning With Scala"
 
 #### 2020
 
+* *Remote*, **ScalaLove** - 18th April, "From Zero To Deep Learning With Scala" [slides](https://www.slideshare.net/FabioTiriticco/from-zero-to-deep-learning-with-scala-232229345))
 * *Remote*, **ScalaUA** - 3rd April, "From Zero To Deep Learning With Scala"
 * Amsterdam (NL), **Software Circus Meetup** - 23rd January, "Tame Crypto Events with Streaming"
 
