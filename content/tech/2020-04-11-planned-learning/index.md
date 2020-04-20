@@ -11,7 +11,7 @@ tags: [covid19, planning]
 
 *Preview Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-Like many others, I find myself out of work during the Covid19 crisis of Spring 2020. Like pretty much everyone else in the world, I gave in to the looming uncertainty and set to wait out to see what happens. Signs of turbulence in the real estate market are palpable and if moving can be postponed, it sounds like a wise thing to do.
+Like many others, I find myself out of work during the Covid19 crisis of Spring 2020.
 
 I imagine that finding work in the coming months would be challenging but probably feasible. At the same time, after a little thinking, I decided to take this situation as a hint to take a little time for myself. A carefree month or two, then start to think about what comes next. I am privileged enough to be able to afford a couple of months without income, and in fact every time I've done it before it has always had a positive impact on my life.
 
