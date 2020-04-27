@@ -16,7 +16,7 @@ showInMenu: true
 #### 2020
 
 * *Remote*, **ScalaLove** - 18th April, "From Zero To Deep Learning With Scala" ([slides](https://www.slideshare.net/FabioTiriticco/from-zero-to-deep-learning-with-scala-232229345))
-* *Remote*, **ScalaUA** - 3rd April, "From Zero To Deep Learning With Scala"
+* *Remote*, **ScalaUA** - 3rd April, "From Zero To Deep Learning With Scala" ([recording](https://www.youtube.com/watch?v=HvjaAzW8TAE))
 * Amsterdam (NL), **Software Circus Meetup** - 23rd January, "Tame Crypto Events with Streaming"
 
 #### 2019
