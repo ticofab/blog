@@ -10,7 +10,7 @@ showInMenu: true
 
 #### UPCOMING 2020
 
-
+* *Remote*, **Scalar Online** - 15th May, "From Zero To Deep Learning With Scala"
 * Porto (PT), **Scala Swarm** - 20th June, "From Zero To Deep Learning With Scala"
 
 #### 2020

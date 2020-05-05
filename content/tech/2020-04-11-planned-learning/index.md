@@ -11,6 +11,8 @@ tags: [covid19, planning]
 
 *Preview Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
+**UPDATE on the 4th of May 2020**: my last working month is May 2020 instead of April 2020!
+
 Like many others, I find myself out of work during the Covid19 crisis of Spring 2020.
 
 I imagine that finding work in the coming months would be challenging but probably feasible. After a little thinking, I decided to take a little time for myself. A carefree month or two, then figure out what comes next. I am privileged enough to be able to afford a couple of months without income, and in fact every time I've done it before it has always had a positive impact on my life.
@@ -35,4 +37,4 @@ This post is meant to be a living "To-Learn" list. I will add/or modify items fr
 * Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) (*if it arrives in time*)
 * Experiment (*loose definition, I know*) with [ZIO](https://twitter.com/zioscala)
 * Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4)
-
+* Finally learn how [Paw](paw.cloud) works (after buying it years ago).
