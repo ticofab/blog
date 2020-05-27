@@ -17,7 +17,7 @@ I specialize in architectures for distributed Reactive Systems, bridging applica
 
 I love speaking about the importance of integration between application logic and infrastructure, and have done so at many conferences - like the **O'Reilly Software Architecture Conference** and the **Reactive Summit**. 
 
-Please check a list of [my talks](http://ticofab.io/talks/) and my full [resume](http://ticofab.io/assets/cv/fabio_tiriticco_cv_2019.pdf).
+Please check a list of [my talks](http://ticofab.io/talks/) and my full [resume](https://ticofab.io/cv/fabio-tiriticco-resume.pdf).
 
 An [email](mailto:fabio@ticofab.io) is the easiest way to start a rich conversation.
 
