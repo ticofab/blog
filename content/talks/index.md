@@ -12,7 +12,7 @@ showInMenu: true
 
 * *Remote*, **DeveloperWeek Global**, 15th June, "From Zero To Deep Learning With Scala"
 * *Remote*, **Scala In The City Meetup**, 25th June, "From Zero To Deep Learning With Scala"
-* ~~Porto (PT), **Scala Swarm** - 20th June, "From Zero To Deep Learning With Scala"~~ *Canceled due to COVID-19~~
+* ~~Porto (PT), **Scala Swarm** - 20th June, "From Zero To Deep Learning With Scala"~~ *Canceled due to pandemic*
 * Zurich (CH), **Developer Week Swiss**, 7th December, "From Zero To Deep Learning With Scala"
 
 #### 2020
