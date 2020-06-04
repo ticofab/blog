@@ -17,8 +17,8 @@ showInMenu: true
 
 #### 2020
 
-* *Remote*, **Software Circus Conference**, 21st May, "Planespotting: From Zero To Deep Learning" ([slides](https://www.slideshare.net/FabioTiriticco/planespotting-from-zero-to-deep-learning))
-* *Remote*, **Scalar Online** - 15th May, "From Zero To Deep Learning With Scala"
+* *Remote*, **Software Circus Conference**, 21st May, "Planespotting: From Zero To Deep Learning" ([recording](https://www.youtube.com/watch?v=genol6uZwe4), [slides](https://www.slideshare.net/FabioTiriticco/planespotting-from-zero-to-deep-learning))
+* *Remote*, **Scalar Online** - 15th May, "From Zero To Deep Learning With Scala" ([recording](https://t.co/8qHZAI05ZV?amp=1))
 * *Remote*, **ScalaLove** - 18th April, "From Zero To Deep Learning With Scala" ([slides](https://www.slideshare.net/FabioTiriticco/from-zero-to-deep-learning-with-scala-232229345))
 * *Remote*, **ScalaUA** - 3rd April, "From Zero To Deep Learning With Scala" ([recording](https://www.youtube.com/watch?v=HvjaAzW8TAE))
 * Amsterdam (NL), **Software Circus Meetup** - 23rd January, "Tame Crypto Events with Streaming"
