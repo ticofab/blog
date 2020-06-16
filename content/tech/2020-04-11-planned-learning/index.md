@@ -11,11 +11,11 @@ tags: [covid19, planning]
 
 *Preview Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 4/5, lesson 17/21 (15th June)*
-* Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.
-* ⚙️ Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day. *Progress: finished lesson 7 of 14 (15th June)*
+* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 4/5, lesson 18/21 (16th June)*
+* ✅ ~~Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.~~
+* ⚙️ Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day. *Progress: finished lesson 8 of 14 (16th June)*
 * ✅ ~~Take the course *Scala Language Professional* on [Lightbend Academy](https://academy.lightbend.com).~~
-* Take the course *Data Engineering - Principles* on [Lightbend Academy](https://academy.lightbend.com).
+* ⚙️ Take the course *Data Engineering - Principles* on [Lightbend Academy](https://academy.lightbend.com).
 * ✅ ~~Bake a cake for [Matteo](https://twitter.com/dj_rtl)'s birthday (I have never baked a cake, this **is** learning for me)~~
 * Spend two hours catching up with the latest changes in [Akka](https://akka.io).
 * ❌ ~~Meditate every day with [Ten Percent](https://www.tenpercent.com/).~~ *Removed as not a completable goal*
@@ -29,6 +29,9 @@ tags: [covid19, planning]
 * Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
 * Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).
 * Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).
+* Build my mechanical keyboard (or throw it away).
+
+**UPDATE 16th of June 2020**: Started Data Engineering course on [Lightbend Academy](https://academy.lightbend.com). Added one goal at the bottom. Updated my CV. Watched [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk about CloudFlow.
 
 **UPDATE 15th of June 2020**: Completed Scala course on [Lightbend Academy](https://academy.lightbend.com), watched [Artur Skowronski](https://twitter.com/ArturSkowronski)'s video from ScalaUA. Progress on [Ratatype](https://www.ratatype.com) and on the guitar. Watched the video about the blockchain. Also bought a desk fan and had breakfast with a friend. Good day.
 
