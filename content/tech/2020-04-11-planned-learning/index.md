@@ -3,6 +3,7 @@ title: Planned Learning
 date: 2020-06-15
 summary: "Planning learning for the upcoming months w/o work during the Corona crisis"
 summaryImage: "dan-dimmock-sNwnjxm8eTY-unsplash.jpg"
+hideLastModified: true
 keepImageRatio: true
 tags: [covid19, planning]
 ---
@@ -11,35 +12,40 @@ tags: [covid19, planning]
 
 *Preview Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 4/5, lesson 18/21 (16th June)*
+* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 5, lessons 3/19 completed (19th June)*
 * ✅ ~~Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.~~
-* ⚙️ Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day. *Progress: finished lesson 8 of 14 (16th June)*
+* ⚙️ Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day. *Progress: lesson 12/14 completed! (19th June)*
 * ✅ ~~Take the course *Scala Language Professional* on [Lightbend Academy](https://academy.lightbend.com).~~
-* ⚙️ Take the course *Data Engineering - Principles* on [Lightbend Academy](https://academy.lightbend.com).
+* ✅ ~~Take the course *Data Engineering - Principles* on [Lightbend Academy](https://academy.lightbend.com).~~
 * ✅ ~~Bake a cake for [Matteo](https://twitter.com/dj_rtl)'s birthday (I have never baked a cake, this **is** learning for me)~~
 * Spend two hours catching up with the latest changes in [Akka](https://akka.io).
+* Take the course *Akka for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com).
 * ❌ ~~Meditate every day with [Ten Percent](https://www.tenpercent.com/).~~ *Removed as not a completable goal*
 * Read *[Java Performance - 2nd Edition](http://shop.oreilly.com/product/0636920272250.do)* by Scott Oaks.
 * ✅ ~~Watch *Landscape After A Battle – What’s Left Of Blockchain Tooling* by [Artur Skowronski](https://twitter.com/ArturSkowronski).~~
 * Spend one hour learning shortcuts in [IntelliJ IDEA](https://twitter.com/intellijidea).
 * Spend one hour trying out the new features in the latest [IntelliJ IDEA](https://twitter.com/intellijidea).
 * ⚙️ Finish to read the antology *[Acolytes of Cthulhu](https://en.wikipedia.org/wiki/Acolytes_of_Cthulhu)*.
-* Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
+* ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
 * Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
 * Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
 * Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).
 * Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).
 * Build my mechanical keyboard (or throw it away).
 
+**UPDATE 19th of June 2020**: Completed the Data Engineering course on [Lightbend Academy](https://academy.lightbend.com)! 🥳 Couple more guitar lessons, one level [Ratatype](https://www.ratatype.com). Added one Lightbend Academy course to the ToLearn list.
+
+**UPDATE 18th of June 2020**: More lessons of the Data Engineering course. One lesson of Ratatype. Completed level 4 on the Fender Play path.
+
 **UPDATE 16th of June 2020**: Started Data Engineering course on [Lightbend Academy](https://academy.lightbend.com). Added one goal at the bottom. Updated my CV. Watched [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk about CloudFlow.
 
 **UPDATE 15th of June 2020**: Completed Scala course on [Lightbend Academy](https://academy.lightbend.com), watched [Artur Skowronski](https://twitter.com/ArturSkowronski)'s video from ScalaUA. Progress on [Ratatype](https://www.ratatype.com) and on the guitar. Watched the video about the blockchain. Also bought a desk fan and had breakfast with a friend. Good day.
 
-**UPDATE 14th of June 2020**: contract finally ended on the 12th of June. Already progress on something, starting with the refresher Scala course from Lightbend Academy. I'm also being consistent with [Ratatype](https://www.ratatype.com) completing one lesson per day.
+**UPDATE 14th of June 2020**: Contract finally ended on the 12th of June. Already progress on something, starting with the refresher Scala course from Lightbend Academy. I'm also being consistent with [Ratatype](https://www.ratatype.com) completing one lesson per day.
 
-**UPDATE 6th of June 2020**: contract extended again until the 12th of June! Learning postponed.
+**UPDATE 6th of June 2020**: Contract extended again until the 12th of June! Learning postponed.
 
-**UPDATE 4th of May 2020**: my last working month is May 2020 instead of April 2020!
+**UPDATE 4th of May 2020**: My last working month is May 2020 instead of April 2020!
 
 **ORIGINAL POST on April 11th, 2020**:
 
