@@ -10,16 +10,16 @@ tags: [covid19, planning]
 
 ![Planned Learning](dan-dimmock-sNwnjxm8eTY-unsplash.jpg)
 
-*Preview Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
+*Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 5, lessons 3/19 completed (19th June)*
+* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 5, lessons 6/19 completed (21st June)*
 * ✅ ~~Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.~~
-* ⚙️ Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day. *Progress: lesson 12/14 completed! (19th June)*
+* ✅ ~~Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day.~~
 * ✅ ~~Take the course *Scala Language Professional* on [Lightbend Academy](https://academy.lightbend.com).~~
 * ✅ ~~Take the course *Data Engineering - Principles* on [Lightbend Academy](https://academy.lightbend.com).~~
 * ✅ ~~Bake a cake for [Matteo](https://twitter.com/dj_rtl)'s birthday (I have never baked a cake, this **is** learning for me)~~
 * Spend two hours catching up with the latest changes in [Akka](https://akka.io).
-* Take the course *Akka for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com).
+* ⚙️ Take the course *Akka for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com).
 * ❌ ~~Meditate every day with [Ten Percent](https://www.tenpercent.com/).~~ *Removed as not a completable goal*
 * Read *[Java Performance - 2nd Edition](http://shop.oreilly.com/product/0636920272250.do)* by Scott Oaks.
 * ✅ ~~Watch *Landscape After A Battle – What’s Left Of Blockchain Tooling* by [Artur Skowronski](https://twitter.com/ArturSkowronski).~~
@@ -32,6 +32,10 @@ tags: [covid19, planning]
 * Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).
 * Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).
 * Build my mechanical keyboard (or throw it away).
+
+**UPDATE 21st of June 2020**: Finished the [Ratatype](https://www.ratatype.com) course! Will try to embed it in my everyday typing. Additionally, I am re-taking the Reactive Architecture courses as a refresher and collecting my [badges](https://www.youracclaim.com/users/fabio-tiriticco/badges). One more guitar lesson on [Fender Play](https://www.fender.com/play).
+
+**UPDATE 20th of June 2020**: Started the Akka course on [Lightbend Academy](https://academy.lightbend.com). Completed lesson 13 on [Ratatype](https://www.ratatype.com).
 
 **UPDATE 19th of June 2020**: Completed the Data Engineering course on [Lightbend Academy](https://academy.lightbend.com)! 🥳 Couple more guitar lessons, one level [Ratatype](https://www.ratatype.com). Added one Lightbend Academy course to the ToLearn list.
 
