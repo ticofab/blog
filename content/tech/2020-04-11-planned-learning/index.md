@@ -33,6 +33,8 @@ tags: [covid19, planning]
 * Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).
 * Build my mechanical keyboard (or throw it away).
 
+**UPDATE 22nd of June 2020**: One [Fender Play](https://www.fender.com/play) lesson. Done a lot today but not much was on this list. Re-completed the last Reactive Architecture exam. Prepared slides for my next [talk](http://ticofab.io/talks). Spent time with a friend who leaves for two months tomorrow.
+
 **UPDATE 21st of June 2020**: Finished the [Ratatype](https://www.ratatype.com) course! Will try to embed it in my everyday typing. Additionally, I am re-taking the Reactive Architecture courses as a refresher and collecting my [badges](https://www.youracclaim.com/users/fabio-tiriticco/badges). One more guitar lesson on [Fender Play](https://www.fender.com/play).
 
 **UPDATE 20th of June 2020**: Started the Akka course on [Lightbend Academy](https://academy.lightbend.com). Completed lesson 13 on [Ratatype](https://www.ratatype.com).
