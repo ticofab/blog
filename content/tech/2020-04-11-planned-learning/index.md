@@ -12,14 +12,14 @@ tags: [covid19, planning]
 
 *Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 5, lessons 8/19 completed (23rd June)*
+* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 5, lessons 10/19 completed (26th June)*
 * ✅ ~~Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.~~
 * ✅ ~~Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day.~~
 * ✅ ~~Take the course *Scala Language Professional* on [Lightbend Academy](https://academy.lightbend.com).~~
 * ✅ ~~Take the course *Data Engineering - Principles* on [Lightbend Academy](https://academy.lightbend.com).~~
 * ✅ ~~Bake a cake for [Matteo](https://twitter.com/dj_rtl)'s birthday (I have never baked a cake, this **is** learning for me)~~
 * Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the 30th of June.
-* Take the course *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com) within the 30th of June.
+* ⚙️ Take the course *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com) within the 30th of June.
 * Spend two hours catching up with the latest changes in [Akka](https://akka.io).
 * ✅ ~~Take the course *Akka for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com).~~
 * ❌ ~~Meditate every day with [Ten Percent](https://www.tenpercent.com/).~~ *Removed as not a completable goal*
@@ -30,11 +30,14 @@ tags: [covid19, planning]
 * ✅ ~~Finish to read the antology *[Acolytes of Cthulhu](https://en.wikipedia.org/wiki/Acolytes_of_Cthulhu)*.~~
 * ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
 * Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
-* Watch three videos from the [Codemotion DeepLearningConf 2020](https://events.codemotion.com/conferences/online/2020/deep-learning/).
+* ✅ ~~Watch three videos from the [Codemotion DeepLearningConf 2020](https://events.codemotion.com/conferences/online/2020/deep-learning/).~~
 * Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
 * Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).
 * Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).
 * Build my mechanical keyboard (or throw it away).
+* ✅ ~~Watch [Mary Grygleski](https://twitter.com/mgrygles) and [Oleh Dokuka](https://twitter.com/OlehDokuka)'s talk about [Packman, ML and Reactive Streams](https://youtu.be/NpkmmorXSYg?t=5980)!~~
+
+**UPDATE 26th of June 2020**: Watched videos from the [Codemotion DeepLearningConf 2020](https://events.codemotion.com/conferences/online/2020/deep-learning/). Either terrible quality (unreadable slides) or matters too complicated for me. Went ahead with the guitar lessons in the morning.
 
 **UPDATE 25th of June 2020**: Completed the Akka course on [Lightbend Academy](https://academy.lightbend.com), and added two more! Added videos to watch from the [Codemotion DeepLearningConf 2020](https://events.codemotion.com/conferences/online/2020/deep-learning/). One guitar lesson done.
 
