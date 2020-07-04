@@ -14,7 +14,7 @@ showInMenu: true
 
 #### 2020
 
-* *Remote*, **Scala In The City Meetup**, 25th June, "From Zero To Deep Learning With Scala"
+* *Remote*, **Scala In The City Meetup**, 25th June, "From Zero To Deep Learning With Scala" ([recording](https://www.youtube.com/watch?v=HQJgE1p2SG0))
 * ~~Porto (PT), **Scala Swarm** - 20th June, "From Zero To Deep Learning With Scala"~~ *Canceled due to pandemic*
 * *Remote*, **DeveloperWeek Global**, 15th June, "From Zero To Deep Learning With Scala"
 * *Remote*, **Software Circus Conference**, 21st May, "Planespotting: From Zero To Deep Learning" ([recording](https://www.youtube.com/watch?v=genol6uZwe4), [slides](https://www.slideshare.net/FabioTiriticco/planespotting-from-zero-to-deep-learning))

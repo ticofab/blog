@@ -12,7 +12,7 @@ tags: [covid19, planning]
 
 *Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 5, lessons 10/19 completed (26th June)*
+* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 5, lessons 17/19 completed (2nd of July)*
 * ✅ ~~Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.~~
 * ✅ ~~Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day.~~
 * ✅ ~~Take the course *Scala Language Professional* on [Lightbend Academy](https://academy.lightbend.com).~~
@@ -32,12 +32,22 @@ tags: [covid19, planning]
 * Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
 * ✅ ~~Watch three videos from the [Codemotion DeepLearningConf 2020](https://events.codemotion.com/conferences/online/2020/deep-learning/).~~
 * Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
-* Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).
-* Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).
+* ✅ ~~Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).~~
+* ✅ ~~Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).~~
 * Build my mechanical keyboard (or throw it away).
 * ✅ ~~Watch [Mary Grygleski](https://twitter.com/mgrygles) and [Oleh Dokuka](https://twitter.com/OlehDokuka)'s talk about [Packman, ML and Reactive Streams](https://youtu.be/NpkmmorXSYg?t=5980)!~~
 
-**UPDATE 26th of June 2020**: Watched videos from the [Codemotion DeepLearningConf 2020](https://events.codemotion.com/conferences/online/2020/deep-learning/). Either terrible quality (unreadable slides) or matters too complicated for me. Went ahead with the guitar lessons in the morning.
+**UPDATE 3rd and 4th July 2020**: Moving days. But I managed to finish the Isaac Asimov book.
+
+**UPDATE 2st of July 2020**: Again not much from this list - I've been packing all day, calling utility providers, renting a van for the move and so forth. At the end of the day I did one guitar lesson and a mindful session before going to bed.
+
+**UPDATE 1st of July 2020**: Not much as we got the jey to our new apartment and I got busy with that. But I managed to do the [Paw](paw.cloud) tutorial and test it in conjunction with my little side project.
+
+**UPDATE 30th of June 2020**: One more guitar lesson (getting tougher!), worked a lot on the little project with Akka & Scala. 
+
+**UPDATE 27th, 28th and 29th of June 2020**: Ahead with the guitar course, worked full steam on my little stealth project with Akka & Scala. Started reading *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov.
+
+**UPDATE 26th of June 2020**: Watched videos from the [Codemotion DeepLearningConf 2020](https://events.codemotion.com/conferences/online/2020/deep-learning/). Either terrible quality (unreadable slides) or matters too complicated for me. Went ahead with the guitar lessons in the morning. Wathed the talk about Pacman, AI and Reactive Streams by [Mary Grygleski](https://twitter.com/mgrygles) and [Oleh Dokuka](https://twitter.com/OlehDokuka).
 
 **UPDATE 25th of June 2020**: Completed the Akka course on [Lightbend Academy](https://academy.lightbend.com), and added two more! Added videos to watch from the [Codemotion DeepLearningConf 2020](https://events.codemotion.com/conferences/online/2020/deep-learning/). One guitar lesson done.
 
