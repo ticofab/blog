@@ -12,30 +12,38 @@ tags: [covid19, planning]
 
 *Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-* ⚙️ Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app. *Progress: level 5, lessons 17/19 completed (2nd of July)*
+* Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.
+* ⚙️ Take the course *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.
+* Spend two hours catching up with the latest changes in [Akka](https://akka.io).
+* Spend one hour learning shortcuts in [IntelliJ IDEA](https://twitter.com/intellijidea).
+* Spend one hour trying out the new features in the latest [IntelliJ IDEA](https://twitter.com/intellijidea).
+* Read *[Java Performance - 2nd Edition](http://shop.oreilly.com/product/0636920272250.do)* by Scott Oaks.
+* ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
+* Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
+* Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
+* Build my mechanical keyboard (or throw it away).
+* ✅ ~~Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app.~~
 * ✅ ~~Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.~~
 * ✅ ~~Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day.~~
 * ✅ ~~Take the course *Scala Language Professional* on [Lightbend Academy](https://academy.lightbend.com).~~
 * ✅ ~~Take the course *Data Engineering - Principles* on [Lightbend Academy](https://academy.lightbend.com).~~
 * ✅ ~~Bake a cake for [Matteo](https://twitter.com/dj_rtl)'s birthday (I have never baked a cake, this **is** learning for me)~~
-* Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the 30th of June.
-* ⚙️ Take the course *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com) within the 30th of June.
-* Spend two hours catching up with the latest changes in [Akka](https://akka.io).
 * ✅ ~~Take the course *Akka for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com).~~
 * ❌ ~~Meditate every day with [Ten Percent](https://www.tenpercent.com/).~~ *Removed as not a completable goal*
-* Read *[Java Performance - 2nd Edition](http://shop.oreilly.com/product/0636920272250.do)* by Scott Oaks.
 * ✅ ~~Watch *Landscape After A Battle – What’s Left Of Blockchain Tooling* by [Artur Skowronski](https://twitter.com/ArturSkowronski).~~
-* Spend one hour learning shortcuts in [IntelliJ IDEA](https://twitter.com/intellijidea).
-* Spend one hour trying out the new features in the latest [IntelliJ IDEA](https://twitter.com/intellijidea).
 * ✅ ~~Finish to read the antology *[Acolytes of Cthulhu](https://en.wikipedia.org/wiki/Acolytes_of_Cthulhu)*.~~
-* ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
-* Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
 * ✅ ~~Watch three videos from the [Codemotion DeepLearningConf 2020](https://events.codemotion.com/conferences/online/2020/deep-learning/).~~
-* Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
 * ✅ ~~Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).~~
 * ✅ ~~Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).~~
-* Build my mechanical keyboard (or throw it away).
 * ✅ ~~Watch [Mary Grygleski](https://twitter.com/mgrygles) and [Oleh Dokuka](https://twitter.com/OlehDokuka)'s talk about [Packman, ML and Reactive Streams](https://youtu.be/NpkmmorXSYg?t=5980)!~~
+
+**UPDATE 14th of July 2020**: Super busy days with moving, but now back here! Worked best effort on my side project.
+
+**UPDATE 8th of July 2020**: Worked on my side project.
+
+**UPDATE 6th / 7th of July 2020**: More moving, but I completed the guitar course on [Fender Play](https://www.fender.com/play)!
+
+**UPDATE 5th of July 2020**: Still in moving mode. Rearranged items with the dones at the bottom. Done one guitar lesson.
 
 **UPDATE 3rd and 4th July 2020**: Moving days. But I managed to finish the Isaac Asimov book.
 
