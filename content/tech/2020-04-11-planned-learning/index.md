@@ -21,7 +21,7 @@ tags: [covid19, planning]
 * ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
 * Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
 * Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
-* Build my mechanical keyboard (or throw it away).
+* ✅ ~~Build my mechanical keyboard (or throw it away).~~
 * ✅ ~~Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app.~~
 * ✅ ~~Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.~~
 * ✅ ~~Complete the [Ratatype](https://www.ratatype.com) lessons. Ideally one per day.~~
@@ -36,6 +36,8 @@ tags: [covid19, planning]
 * ✅ ~~Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).~~
 * ✅ ~~Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).~~
 * ✅ ~~Watch [Mary Grygleski](https://twitter.com/mgrygles) and [Oleh Dokuka](https://twitter.com/OlehDokuka)'s talk about [Packman, ML and Reactive Streams](https://youtu.be/NpkmmorXSYg?t=5980)!~~
+
+**UPDATE 26th of July 2020**: Worked a lot on the side project (but getting somewhere!), built the mechanical [Preonic](https://www.reddit.com/r/MechanicalKeyboards/comments/awd15x/olkb_preonic_rev3_from_massdrop_review_comparison/) keyboard months after its purchase, thanks to my friend [Nicola](https://twitter.com/durdn).
 
 **UPDATE 14th of July 2020**: Super busy days with moving, but now back here! Worked best effort on my side project.
 
