@@ -13,7 +13,6 @@ tags: [covid19, planning]
 *Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
 * Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.
-* ⚙️ Take the course *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.
 * Spend two hours catching up with the latest changes in [Akka](https://akka.io).
 * Spend one hour learning shortcuts in [IntelliJ IDEA](https://twitter.com/intellijidea).
 * Spend one hour trying out the new features in the latest [IntelliJ IDEA](https://twitter.com/intellijidea).
@@ -21,6 +20,7 @@ tags: [covid19, planning]
 * ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
 * Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
 * Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
+* ✅ ~~Take the course *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.~~
 * ✅ ~~Build my mechanical keyboard (or throw it away).~~
 * ✅ ~~Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app.~~
 * ✅ ~~Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.~~
@@ -36,6 +36,8 @@ tags: [covid19, planning]
 * ✅ ~~Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).~~
 * ✅ ~~Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).~~
 * ✅ ~~Watch [Mary Grygleski](https://twitter.com/mgrygles) and [Oleh Dokuka](https://twitter.com/OlehDokuka)'s talk about [Packman, ML and Reactive Streams](https://youtu.be/NpkmmorXSYg?t=5980)!~~
+
+**UPDATE 31st of July 2020**: Working hard on the side project, completed the *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com), started reading new books!
 
 **UPDATE 26th of July 2020**: Worked a lot on the side project (but getting somewhere!), built the mechanical [Preonic](https://www.reddit.com/r/MechanicalKeyboards/comments/awd15x/olkb_preonic_rev3_from_massdrop_review_comparison/) keyboard months after its purchase, thanks to my friend [Nicola](https://twitter.com/durdn).
 
