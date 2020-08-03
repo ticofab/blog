@@ -12,7 +12,7 @@ tags: [covid19, planning]
 
 *Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-* Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.
+* ⚙️ Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.
 * Spend two hours catching up with the latest changes in [Akka](https://akka.io).
 * Spend one hour learning shortcuts in [IntelliJ IDEA](https://twitter.com/intellijidea).
 * Spend one hour trying out the new features in the latest [IntelliJ IDEA](https://twitter.com/intellijidea).
@@ -20,6 +20,10 @@ tags: [covid19, planning]
 * ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
 * Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
 * Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
+* Add badges / books to my CV.
+* Add portfolio section to this website.
+* Take the CNCF certification.
+* ✅ ~~Watch *Polynote: A Better Notebook For Scala* [video](https://www.youtube.com/watch?v=tGiim15UX2s) by [Vincent Brule](https://twitter.com/BruleVincent).~~
 * ✅ ~~Take the course *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.~~
 * ✅ ~~Build my mechanical keyboard (or throw it away).~~
 * ✅ ~~Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app.~~
