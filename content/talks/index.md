@@ -10,11 +10,11 @@ showInMenu: true
 
 #### UPCOMING 2020
 
-* *Remote*, **Software Circus Meetup**, 6th August, "Planespotting: From Zero To Deep Learning"
 * Zurich (CH), **Developer Week Swiss**, 7th December, "From Zero To Deep Learning With Scala"
 
 #### 2020
 
+* *Remote*, **Software Circus Meetup**, 6th August, "Planespotting: From Zero To Deep Learning"
 * *Remote*, **Scala In The City Meetup**, 25th June, "From Zero To Deep Learning With Scala" ([recording](https://www.youtube.com/watch?v=HQJgE1p2SG0))
 * ~~Porto (PT), **Scala Swarm** - 20th June, "From Zero To Deep Learning With Scala"~~ *Canceled due to pandemic*
 * *Remote*, **DeveloperWeek Global**, 15th June, "From Zero To Deep Learning With Scala"

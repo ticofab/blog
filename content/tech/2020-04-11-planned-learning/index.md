@@ -12,9 +12,10 @@ tags: [covid19, planning]
 
 *Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-* ⚙️ Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.
 * Spend two hours catching up with the latest changes in [Akka](https://akka.io).
 * Spend one hour learning shortcuts in [IntelliJ IDEA](https://twitter.com/intellijidea).
+* ⚙️ Take the course *Akka Cluster Sharding* on [Lightbend Academy](https://academy.lightbend.com) within the 31st of August.
+* Migrate the Akka app from the *Akka for Scala - Professional* course on [Lightbend Academy](https://academy.lightbend.com) to Akka Typed.
 * Spend one hour trying out the new features in the latest [IntelliJ IDEA](https://twitter.com/intellijidea).
 * Read *[Java Performance - 2nd Edition](http://shop.oreilly.com/product/0636920272250.do)* by Scott Oaks.
 * ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
@@ -23,8 +24,9 @@ tags: [covid19, planning]
 * Add badges / books to my CV.
 * Add portfolio section to this website.
 * Take the CNCF certification.
+* ✅ ~~Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the 31st of August.~~
 * ✅ ~~Watch *Polynote: A Better Notebook For Scala* [video](https://www.youtube.com/watch?v=tGiim15UX2s) by [Vincent Brule](https://twitter.com/BruleVincent).~~
-* ✅ ~~Take the course *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com) within the ~~30th of June~~ 31st of August.~~
+* ✅ ~~Take the course *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com) within the 31st of August.~~
 * ✅ ~~Build my mechanical keyboard (or throw it away).~~
 * ✅ ~~Complete the path Pop Acoustic Guitar on the [Fender Play](https://www.fender.com/play) app.~~
 * ✅ ~~Watch [Jeroen Rosemberg](https://twitter.com/jeroenrosenberg)'s talk *Building A Streaming Stock Market Analysis Tool On Kubernetes With Cloudflow*.~~
@@ -40,6 +42,10 @@ tags: [covid19, planning]
 * ✅ ~~Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).~~
 * ✅ ~~Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).~~
 * ✅ ~~Watch [Mary Grygleski](https://twitter.com/mgrygles) and [Oleh Dokuka](https://twitter.com/OlehDokuka)'s talk about [Packman, ML and Reactive Streams](https://youtu.be/NpkmmorXSYg?t=5980)!~~
+
+**UPDATE 6th of August 2020**: Worked on the side project, added to this list and started the *Akka Cluster Sharding* course, decided to try [Bullet Journaling](https://bulletjournal.com) and got a notebook for it. Gave a virtual talk at the [Software Circus](https://www.meetup.com/Software-Circus/events/272202310/) meetup!
+
+**UPDATE 4th of August 2020**: Completed the *Akka Cluster - Fundamentals* course on [Lightbend Academy](https://academy.lightbend.com), more progress on the side project, watched a video about Polynote.
 
 **UPDATE 31st of July 2020**: Working hard on the side project, completed the *Akka Streams for Scala - Professional* on [Lightbend Academy](https://academy.lightbend.com), started reading new books!
 
