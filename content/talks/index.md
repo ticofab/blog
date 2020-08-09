@@ -29,10 +29,10 @@ showInMenu: true
 * London (UK), **London Scala Community Day** - 14th December, "Tame Crypto Events with Streaming"
 * ~~London (UK), **Scala eXchange** - 12th December, "Tame Crypto Events with Streaming"~~ *Canceled due to SkillsMatters bankrupcy*
 * Ljubljana (SI), **BeeScala** - 21st November, "Tame Crypto Events with Streaming" ([recording](https://www.youtube.com/watch?v=wk8g83XRUzQ))
-* Lyon (FR), **Scala IO** - 30th October, "Tame Crypto Events with Streaming"
-* Amsterdam (NL), **Women in Tech Regatta** - 1st November, Panel moderator for "Staying Strong in Tech"
-* Antwerp (BE), **Belgian Scala User Group** - 7th November, "Tame Crypto Events with Streaming"
 * Milan (IT), **Italian Community Managers Summit** - 15th November, "Ten frustrations from the community trenches - and how to deal with them" ([recording](https://www.youtube.com/watch?v=_WqodKHwPk4))
+* Antwerp (BE), **Belgian Scala User Group** - 7th November, "Tame Crypto Events with Streaming"
+* Amsterdam (NL), **Women in Tech Regatta** - 1st November, Panel moderator for "Staying Strong in Tech"
+* Lyon (FR), **Scala IO** - 30th October, "Tame Crypto Events with Streaming"
 * Amsterdam (NL), **University of Amsterdam** - 15th October, "Tame Crypto Events with Streaming"
 * Krakow (PL), **React Sphere** - 9th October, "Tame Crypto Events with Streaming" ([recording](https://www.youtube.com/watch?v=P1W1CSnZdS4))
 * Lisbon (PT), **Lx Scala & Reactive** - 4th July, "Reactive From Code to Cloud"
