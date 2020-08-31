@@ -1,6 +1,6 @@
 ---
 title: Planned Learning
-date: 2020-06-15
+date: 2020-08-31
 summary: "Planning learning for the upcoming months w/o work during the Corona crisis"
 summaryImage: "dan-dimmock-sNwnjxm8eTY-unsplash.jpg"
 hideLastModified: true
@@ -12,17 +12,17 @@ tags: [covid19, planning]
 
 *Image by [Dan Dimmock](https://unsplash.com/@dandimmock) on Unsplash*
 
-* Spend two hours catching up with the latest changes in [Akka](https://akka.io).
-* Spend one hour learning shortcuts in [IntelliJ IDEA](https://twitter.com/intellijidea).
-* Migrate the Akka app from the *Akka for Scala - Professional* course on [Lightbend Academy](https://academy.lightbend.com) to Akka Typed.
-* Spend one hour trying out the new features in the latest [IntelliJ IDEA](https://twitter.com/intellijidea).
-* Read *[Java Performance - 2nd Edition](http://shop.oreilly.com/product/0636920272250.do)* by Scott Oaks.
-* ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
-* Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
-* Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
-* Add badges / books to my CV.
-* Add portfolio section to this website.
-* Take the CNCF certification.
+**FINAL UPDATE 31st of August 2020**:
+
+This post first appeared in April 2020 and was meant as a "live to-learn list". It then gradually evolved into a generic TODO list.
+Its openness on the web had advantages and disadvantages. On the plus side, it certainly added some level of implicit accountability: sharing goals and progress is a proven incentive to keep at it.
+The familiarity of the environment (just another .md file!) made its updating almost frictionless. 
+
+At the same time, I didn't feel comfortable sharing here also more personal goals or sensible data, which ultimately made me look for a more holistic solution. 
+I have been using the BulletJournal method since the beginning of August and I am loving it so far (thanks to [@britanymeadows](https://twitter.com/britanymeadows) for the encouragement!).
+
+Here's the very unreadable list of achieved goals since April: 
+
 * ✅ ~~Take the course *Akka Cluster Sharding* on [Lightbend Academy](https://academy.lightbend.com) within the 31st of August.~~
 * ✅ ~~Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the 31st of August.~~
 * ✅ ~~Watch *Polynote: A Better Notebook For Scala* [video](https://www.youtube.com/watch?v=tGiim15UX2s) by [Vincent Brule](https://twitter.com/BruleVincent).~~
@@ -42,6 +42,20 @@ tags: [covid19, planning]
 * ✅ ~~Read *[The Caves Of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)* by Isaac Asimov, kindly lent to me by [Lorenzo](https://twitter.com/lorenzograndi4).~~
 * ✅ ~~Spend one hour learning how [Paw](paw.cloud) works (after buying it years ago).~~
 * ✅ ~~Watch [Mary Grygleski](https://twitter.com/mgrygles) and [Oleh Dokuka](https://twitter.com/OlehDokuka)'s talk about [Packman, ML and Reactive Streams](https://youtu.be/NpkmmorXSYg?t=5980)!~~
+
+These are the goals I have not updated here since I switched to [bullet journaling](http://bulletjournal.com). Some of them are actually in the works!
+
+* Spend two hours catching up with the latest changes in [Akka](https://akka.io).
+* Spend one hour learning shortcuts in [IntelliJ IDEA](https://twitter.com/intellijidea).
+* Migrate the Akka app from the *Akka for Scala - Professional* course on [Lightbend Academy](https://academy.lightbend.com) to Akka Typed.
+* Spend one hour trying out the new features in the latest [IntelliJ IDEA](https://twitter.com/intellijidea).
+* Read *[Java Performance - 2nd Edition](http://shop.oreilly.com/product/0636920272250.do)* by Scott Oaks.
+* ⚙️ Launch my side project, for now in stealth mode 😄 ([Scala](https://twitter.com/scala_lang) + [Akka](https://akka.io) + [SvelteJS](https://twitter.com/sveltejs)).
+* Read *[Stream Processing With Apache Spark](http://shop.oreilly.com/product/0636920047568.do)* by [Gerard Maas](https://twitter.com/maasg) ~~(if it arrives in time)~~ *(it arrived in time!)*
+* Spend two hours experimenting with [ZIO](https://twitter.com/zioscala).
+* Add badges / books to my CV.
+* Add portfolio section to this website.
+* Take the CNCF certification.
 
 **UPDATE 9th of August 2020**: Completed my summer journey through the Lightbend Academy! All conquered badges are available [here on Acclaim](https://www.youracclaim.com/users/fabio-tiriticco/badges). I have started using [Bullet Journaling](https://bulletjournal.com) and it feels nice so far. Migrated my side project to [Akka HTTP 10.2.0](https://akka.io/blog/news/2020/08/06/akka-http-10.2.0-released).
 
