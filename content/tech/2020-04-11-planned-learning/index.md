@@ -21,7 +21,7 @@ The familiarity of the environment (just another .md file!) made its updating al
 At the same time, I didn't feel comfortable sharing here also more personal goals or sensible data, which ultimately made me look for a more holistic solution. 
 I have been using the BulletJournal method since the beginning of August and I am loving it so far (thanks to [@britanymeadows](https://twitter.com/britanymeadows) for the encouragement!).
 
-Here's the very unreadable list of achieved goals since April: 
+Here's the list of achieved goals since April: 
 
 * ✅ Take the course *Akka Cluster Sharding* on [Lightbend Academy](https://academy.lightbend.com) within the 31st of August.
 * ✅ Take the course *Akka Cluster - Fundamentals* on [Lightbend Academy](https://academy.lightbend.com) within the 31st of August.
