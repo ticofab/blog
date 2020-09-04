@@ -10,6 +10,8 @@ showInMenu: true
 
 #### UPCOMING 2020
 
+* *Remote*, **AI Conf**, 23rd September, "From Zero To Deep Learning On The JVM"
+* *Remote MC* 🎙, **Codemotion Online**, 21 October
 * Zurich (CH), **Developer Week Swiss**, 7th December, "From Zero To Deep Learning With Scala"
 
 #### 2020
