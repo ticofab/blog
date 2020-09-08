@@ -2,6 +2,7 @@
 title: "1998 - Litfinternet"
 date: 2019-06-17T23:53:00+01:00
 hideLastModified: true
+summaryImage: "litfinternet-home-2020.png"
 showInMenu: false
 ---
 
