@@ -6,7 +6,7 @@ summaryImage: "scale-free-network-example.png"
 showInMenu: false
 ---
 
-My time in college, studying Telecommunication Engineerin at the University of Rome "Tor Vergata", resulted in some interesting research
+My time in college, studying Telecommunication Engineering at the University of Rome "Tor Vergata", resulted in some interesting research
 in the networking field. I was especially interested in topology matters. The actual shape of the Internet - what does it look like?
 What kind of properties does a network grown without supervision have? What are its pitfalls? Can we do anything to improve it?
 
@@ -49,8 +49,7 @@ networks with different distributions. Notably,
 At the same time, such networks are very vulnerable to targeted attacks: the removal of a hub is most likely going to bring the
 entire network down and compromise its functioning - both globally or locally. One such example was clearly observable after the 11th of 
 September 2001 destruction of the Twin Towers in New York: below them, a key node of the optical connection between Europe and
-the US was destroyed too. As a result, packets crossing the Atlantic Ocean had to find new, longer routes. Which in turn became
-congested.
+the US was destroyed too. As a result, packets crossing the Atlantic Ocean had to find new, longer routes. Which in turn became congested.
 
 ---
 
