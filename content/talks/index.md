@@ -10,8 +10,10 @@ showInMenu: true
 
 #### UPCOMING 2020
 
+* *Remote*, **Chicago Jug / Chicago Scala meetups**, 19th September, "From Zero To Deep Learning"
 * *Remote*, **AI Conf**, 23rd September, "From Zero To Deep Learning On The JVM"
 * *Remote MC* 🎙, **Codemotion Online**, 21 October
+* *Remote*, **JFuture**, 24th October, "From Zero To Deep Learning With Java"
 * Zurich (CH), **Developer Week Swiss**, 7th December, "From Zero To Deep Learning With Scala"
 
 #### 2020
