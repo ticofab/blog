@@ -10,14 +10,14 @@ showInMenu: true
 
 #### UPCOMING 2020
 
-* *Remote*, **Chicago Jug / Chicago Scala meetups**, 19th September, "From Zero To Deep Learning"
 * *Remote*, **AI Conf**, 23rd September, "From Zero To Deep Learning On The JVM"
-* *Remote MC* 🎙, **Codemotion Online**, 21 October
+* **Remote MC** 🎙, **Codemotion Online**, 21 October
 * *Remote*, **JFuture**, 24th October, "From Zero To Deep Learning With Java"
 * Zurich (CH), **Developer Week Swiss**, 7th December, "From Zero To Deep Learning With Scala"
 
 #### 2020
 
+* *Remote*, **Chicago Jug / Chicago Scala meetups**, 19th September, "From Zero To Deep Learning"
 * *Remote*, **Software Circus Meetup**, 6th August, "Planespotting: From Zero To Deep Learning" ([recording](https://t.co/sTqIUJtreC))
 * *Remote*, **Scala In The City Meetup**, 25th June, "From Zero To Deep Learning With Scala" ([recording](https://www.youtube.com/watch?v=HQJgE1p2SG0))
 * ~~Porto (PT), **Scala Swarm** - 20th June, "From Zero To Deep Learning With Scala"~~ *Canceled due to pandemic*
@@ -43,7 +43,7 @@ showInMenu: true
 * Amsterdam (NL), **Dutch Cloud Native meetup** - 11th April, "Reactive from Code to Cloud"
 * Rome (IT), **Codemotion Rome** - 22nd March, "Akka Cluster vs Kubernetes: Clustering Solutions Showdown"
 * Milan (IT), **Scala Milano meetup** - 5th February, "We all need friends, and Akka just found Kubernetes" ([recording 🇮🇹](https://www.youtube.com/watch?v=NTpHZLj3LjI&feature=youtu.be), [slides](https://www.slideshare.net/FabioTiriticco/we-all-need-friends-and-akka-just-found-kubernetes))
-* **⭐ Webinar with Lightbend ⭐️** - 24th January, "Akka and Kubernetes: Reactive from Code to Cloud" ([recording](https://www.youtube.com/watch?v=FyneQrH-0Rc), [slides](https://www.lightbend.com/blog/akka-and-kubernetes-reactive-from-code-to-cloud))
+* **Webinar with Lightbend** - 24th January, "Akka and Kubernetes: Reactive from Code to Cloud" ([recording](https://www.youtube.com/watch?v=FyneQrH-0Rc), [slides](https://www.lightbend.com/blog/akka-and-kubernetes-reactive-from-code-to-cloud))
 
 #### 2018
 
