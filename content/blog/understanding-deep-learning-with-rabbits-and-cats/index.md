@@ -18,7 +18,9 @@ I bet it was instantaneous: you just knew.
 
 If you were to break down the steps your brain took, It would likely be something like:
 
-* Both animals have black and white fur, two ears and four legs
+* Both animals have black and white fur
+* Both animals have two ears
+* Both animals have four legs
 
 But,
 
@@ -92,7 +94,7 @@ final var network =
   new NeuralNetConfiguration.Builder()
     .list()
     .setInputType(...) // CONFIGURE INPUT LAYER
-    .layer(0, new MyLatyer.Builder()
+    .layer(0, new MyLayer.Builder()
        // CONFIGURE FIRST LAYER
        .build())
     .layer(1, new MySecondLayer.Builder()
