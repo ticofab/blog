@@ -45,7 +45,7 @@ Say you have a stock of cute rabbit images.
 You can feed them to a specific kind of neural network built for the purpose. This network will scan all of them through
 fine grained filters, that you can think of as a grid, like this one below but at pixel level.
 
-![Rabbit in a grid](rabbit-grid.png)
+{{< figure src="rabbit-grid.png" width="600" >}}
 
 The network will eventually select the combination of filters that is best able to detect the presence of a rabbit in 
 any given image. In other words, the network learns the combination of features that make rabbits unique - their “rabbitness”!
@@ -55,7 +55,7 @@ any given image. In other words, the network learns the combination of features 
 The basic unit of a neural network is the Artificial Neuron, modeled directly on the neurons in the brains of humans and
 animals. In practice, an artificial neuron is simply a mathematical function (named Transfer Function) with n weighted inputs.
 
-![An Artificial Neuron](artificial-neuron.png)
+{{< figure src="artificial-neuron.png" width="800" >}}
 
 The output value of the transfer function is passed on to the Activation Function, which is just a filter. Based on the 
 output res, it will decide whether to propagate it as global output of the neuron, or filter it out and emit zero.
@@ -66,15 +66,15 @@ This is it.
 
 A typical neural network looks like the following image.
 
-![Neural Network](neural-network.png)
+{{< figure src="neural-network.png" width="900" >}}
 
 If we use A, B and C as inputs, some neurons will propagate the result of their transfer function to the next ones, and the final outputs will be 2 and 5.
 
-![Neural Network Activated](neural-network-activated-red.png)
+{{< figure src="neural-network-activated-red.png" width="900" >}}
 
 If inputs change to T, P and G, the information will follow different paths to outputs 7 and 1. 
 
-![Neural Network Activated](neural-network-activated-blue.png)
+{{< figure src="neural-network-activated-blue.png" width="900" >}}
 
 The different paths for different inputs stem from the weight configuration on each neuron. With thousands of them, combinations are practically infinite. 
 
