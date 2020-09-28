@@ -18,7 +18,7 @@ home-grown framework written in C++. In fact, it was the legacy of the very firs
 back in the 90's.The core functionality was a loop that would give resources to all necessary components in a round-robin fashion. There were
 about 25 items in this loop - things like the UI thread, the GPS signal, data connectivity via GPRS, map data and so forth.
 
-I personally worked on the user interface, dealing with user clicks, displaying stuff and display it on screen. A lot of it
+I personally worked on the user interface, dealing with user clicks, fetching stuff and coloring the screen. A big part of it
 was collaborating with the UX department, which was sometime joyful and sometimes frustrating 😅 One of my biggest
 achievements was the modernization of the status bar at the bottom of the navigation screen.
 
@@ -34,7 +34,6 @@ animations became a lot easier) and was easier to innovate on.
 For some reason that I never really understood, this implementation was short-lived. After releasing a few devices, some
 new management decided to switch the entire thing to a custom version of Android. In the meantime, TomTom had secured
 a few big automotive contracts to build "infotainment" systems that would come with the car. 
-
 The last project I worked on was the Bluetooth connectivity to enable hands-free calling, music through the car stereo and
 things like that. Being one of the first Android iterations, the whole thing was powered by Java - version 6 I believe.  
 
@@ -42,8 +41,7 @@ things like that. Being one of the first Android iterations, the whole thing was
 
 Tech aspects aside, TomTom is one of my best professional experiences to date. It was that magical phase where
 youth and novelty made every atom in my body love the company and my colleagues. I have wonderful memories of TomTom.
-
-It was my first experience in a young, vibrant company. My first experience in a new country. Some of my closest friends
+It was my first experience in a young, vibrant company in a new country. Some of my closest friends
 in Amsterdam come from that period. I even run the charity Dam Tot Damloop with the company!
 
 {{< figure src="damtotdam1.jpg" width="1280" >}}
@@ -52,7 +50,7 @@ That particular experience was actually insane. In my young optimism, I hadn't t
 This is what I wrote to my friends afterwards.
 
 > I could run  something more then 10 km, after which I've been mostly walking with a left leg unwilling to cooperate any further.
-A good thing is I had a running mate: an English guy that who also hadn't trained at all. Those are excerpts of our conversations at different stages:
+A good thing is I had a running mate: an English guy who also hadn't trained at all. Those are excerpts of our conversations at different stages:
 > - 0 km, countdown to start: "good luck!!! how do you say in italian?" - "in bocca al lupo" - "ok, een bowcah aw loopow!"
 > - 1 km (out of the ij tunnel): "we see the light at the end of the tunnel!!!"
 > - 3 km, total excitement: "hey this is going good man, we can make it!"
