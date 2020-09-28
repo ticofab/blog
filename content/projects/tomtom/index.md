@@ -62,8 +62,8 @@ A good thing is I found a running mate: an English guy that who also hadn't trai
 > - 8.5 km, pain rises and questions about physical details too: "do you feel your stomach contracting?" - "yeah. do you feel your heart bumping in your brain?"
 > - 9.5 km, desperate comments: "it was pretty crazy of us to enroll" - "right -- this is the most stupid thing I've done this year"
 >
->I got home with my left knee screaming Italian blasphemies -- I really could barely walk, and I only had a frozen Alaskan
-codfish to help ease the pain. My sister tried to cheer me up repeating that it was for a good cause.
+>I crossed the line walking like a mutilated penguin and went home with my left knee screaming Italian blasphemies. I 
+could barely walk and I only had a frozen Alaskan codfish to help ease the pain. My sister tried to cheer me up repeating that it was for a good cause.
 
 I feel so lucky to have been part of the TomTom family for those years. Some friends still work there after 12 years and
 I know exactly why.
