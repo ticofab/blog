@@ -66,6 +66,6 @@ A good thing is I found a running mate: an English guy that who also hadn't trai
 codfish to help ease the pain. My sister tried to cheer me up repeating that it was for a good cause.
 
 I feel so lucky to have been part of the TomTom family for those years. Some friends still work there after 12 years and
-I can totally understand why.
+I can know exactly why.
 
 {{< twoFigure src1="devices.jpg" width1="1280" src2="devices2.jpg" width2="1280" >}}
