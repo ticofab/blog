@@ -31,8 +31,8 @@ animations became a lot easier) and was easier to innovate on.
 
 {{< twoFigure src1="go1000.jpg" width1="1280" src2="go1000lanes.png" width2="1280" >}}
 
-For some reason that I never really understood, this implementation was short-lived. After releasing a few devices, some
-new management decided to switch the entire thing to a custom version of Android. In the meantime, TomTom had secured
+As it turned out, this implementation was short-lived. After releasing a few devices, some new management decided to 
+switch the entire thing to a custom version of Android. In the meantime, TomTom had secured
 a few big automotive contracts to build "infotainment" systems that would come with the car. 
 The last project I worked on was the Bluetooth connectivity to enable hands-free calling, music through the car stereo and
 things like that. Being one of the first Android iterations, the whole thing was powered by Java - version 6 I believe.  
@@ -42,14 +42,14 @@ things like that. Being one of the first Android iterations, the whole thing was
 Tech aspects aside, TomTom is one of my best professional experiences to date. It was that magical phase where
 youth and novelty made every atom in my body love the company and my colleagues. I have wonderful memories of TomTom.
 It was my first experience in a young, vibrant company in a new country. Some of my closest friends
-in Amsterdam come from that period. I even run the charity Dam Tot Damloop with the company!
+in Amsterdam come from that period. I even ran the charity Dam Tot Damloop 2008 with the company!
 
 {{< figure src="damtotdam1.jpg" width="1280" >}}
 
 That particular experience was actually insane. In my young optimism, I hadn't trained for a single minute before the run -- I just showed up.  
 This is what I wrote to my friends afterwards.
 
-> I could run  something more then 10 km, after which I've been mostly walking with a left leg unwilling to cooperate any further.
+> I could run something more than 10 km, after which I've been mostly walking with a left leg unwilling to cooperate any further.
 A good thing is I had a running mate: an English guy who also hadn't trained at all. Those are excerpts of our conversations at different stages:
 > - 0 km, countdown to start: "good luck!!! how do you say in italian?" - "in bocca al lupo" - "ok, een bowcah aw loopow!"
 > - 1 km (out of the ij tunnel): "we see the light at the end of the tunnel!!!"
