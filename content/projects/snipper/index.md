@@ -11,21 +11,22 @@ In 2012 I left [TomTom]({{< relref "../tomtom/index.md" >}} "TomTom") after almo
 - Started on Monday morning at the Dutch branch of Unic, a web agency.
 - On Tuesday, got contacted by another ex-TomTommer who was working at a local startup. 
 - Met him and his other colleagues on Wednesday and Thursday.
-- Walked into my office on Friday and returned my laptop.
+- Walked into the Unic office on Friday morning and quit.
 - Started on Monday at the other startup.
 
 The issue with the company I worked at for a week was mainly their tech stack, based around a Java eCommerce framework
 called Hybris. The resignation talk I had on Friday with my manager there was 
-*legendary*. He started yelling, at some point he showed me his wedding ring saying *"..I have a pact with my wife and I
-don't sleep with other women!"*. He clearly missed the points that I didn't marry him and that the 'trial period' goes
+*legendary*. He started yelling, accusing me of lying, at some point he showed me his wedding ring saying *"..I have a pact with my wife and I
+don't sleep with other women!"*. He clearly missed the points that I hadn't married him and that the 'trial period' goes
 for employees as well as employers. A few months later, that Unic Dutch branch [declared bankrupcy](https://www.faillissementsdossier.nl/en/bankruptcy/923170/unic-b-v.aspx).
 
-And that is the story of how I became the 4th employee at Snipper, Breathtaking office in an incredible location in Amsterdam,
+That is the story of how I became the 4th employee at Snipper. Housed at a breathtaking location in Amsterdam,
 the company's main product was a social media focused on video sharing. They had had some initial encouraging success and
 wanted to boost their tech. The idea was clearly worth the efforts - just see the place that Snapchat, Vine or TikTok hold today.
 
 My main task there was working on the Android native app. The current version had been built by an external agency and we
-embarked in rewriting the whole thing, server included. The images below show both previous and newer version.
+embarked in rewriting the whole thing, server included. The images below show both previous and newer version (they might
+be iOS screenshots, the difference was really minimal)
 
 {{< twoFigure src1="snipperold.png" width1="900" src2="snippernew2.png" width2="900" >}}
 
