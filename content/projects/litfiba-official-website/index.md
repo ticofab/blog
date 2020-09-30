@@ -1,6 +1,6 @@
 ---
 title: "2001 to 2006 - Litfiba Official Website"
-date: 2020-08-09T23:53:00+01:00
+date: 2020-02-09
 hideLastModified: true
 summaryImage: "litfibamx-laband-2020.png"
 showInMenu: false
