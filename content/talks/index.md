@@ -11,7 +11,8 @@ showInMenu: true
 #### UPCOMING 2020
 
 * **Remote MC** 🎙, **Codemotion Online**, 21 October
-* *Remote*, **JFuture**, 24th October, "From Zero To Deep Learning With Java"
+* *Remote*, **JFuture**, 23rd October, "From Zero To Deep Learning With Java"
+* *Remote*, **Big Mountain Data and Dev Conference**, 23rd October, "From Zero To Deep Learning On The JVM"
 * Zurich (CH), **Developer Week Swiss**, 7th December, "From Zero To Deep Learning With Scala"
 
 #### 2020
