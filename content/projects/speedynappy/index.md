@@ -1,13 +1,13 @@
 ---
 title: "2016 - SpeedyNappy"
-date: 2020-06-10
+date: 2020-07-10
 hideLastModified: true
 summaryImage: "speedynappy.png"
 showInMenu: false
 ---
 
 SpeedyNappy is a side project that I run with my friend and **AWESOME** illustrator [Chiara Vercesi](https://www.behance.net/chiaravercesi).
-The mobile app lets user:
+The mobile app lets users:
 
 - Log in with Facebook credentials
 - Search for the closest venue with changing table
