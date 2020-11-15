@@ -12,7 +12,7 @@ Facebook, with pictures, events, likes, friends and so forth.
 
 I worked there for about a year and was in charge of the Android app, which was coming together quite nicely.
 
-During that time, I also started working on one of my most successful open-source projects, (Android GPX Parser)[https://github.com/ticofab/android-gpx-parser],
+During that time, I also started working on one of my most successful open-source projects, [Android GPX Parser](https://github.com/ticofab/android-gpx-parser),
 a library built specifically for Android to parse the GPX files produced by GPS tracking devices. We needed it for the
 "share ride" functionality. 
 

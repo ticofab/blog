@@ -10,12 +10,15 @@ showInMenu: true
 
 #### UPCOMING 2020
 
+* *Remote*, **JLove**, 4th December, "From Zero To Deep Learning With Scala"
+
 #### 2020
 
 * ~~Zurich (CH), **Developer Week Swiss**, 7th December, "From Zero To Deep Learning With Scala"~~  *Canceled due to pandemic*
+* *Remote*, **Intellias**, 29th October, "From Zero To Deep Learning With Scala"
 * *Remote*, **Big Mountain Data and Dev Conference**, 23rd October, "From Zero To Deep Learning On The JVM"
 * *Remote*, **JFuture**, 23rd October, "From Zero To Deep Learning With Java"
-* **Remote MC** 🎙, **Codemotion Online**, 22 October
+* **Remote MC** 🎙, **Codemotion Online**, 22 October ([recording](https://vimeo.com/475399236))
 * *Remote*, **AI Conf**, 23rd September, "From Zero To Deep Learning On The JVM"
 * *Remote*, **Chicago Jug / Chicago Scala meetups**, 19th September, "From Zero To Deep Learning" ([recording](https://youtu.be/j2llvhV7cik))
 * *Remote*, **Software Circus Meetup**, 6th August, "Planespotting: From Zero To Deep Learning" ([recording](https://t.co/sTqIUJtreC))
