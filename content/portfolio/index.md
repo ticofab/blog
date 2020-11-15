@@ -7,7 +7,7 @@ summary: "This is a custom summary for my article"
 ---
 
 | When | Project | Short Story | Tech | Screenshot |
-| :--- | :---- | :----- | :----- | :---- |
+| :--- | :---- | :----- | :--: | :---- |
 | 2016&nbsp;to&nbsp;2018 | [Weeronline]({{< relref "../projects/weeronline/index.md" >}} "Weeronline") | Weeronline is the top player in the weather forecast business in the Netherlands. I covered different roles there, from software engineer to Tech Lead managing the entire development department. ☀️🌧️☁️ | Scala, Akka, Java | [![Weeronline](weeronline-symbols-400.png)]({{< relref "../projects/weeronline/index.md" >}} "Weeronline") |
 | 2016 | [The Things Network]({{< relref "../projects/the-things-network/index.md" >}} "The Things Network") | The Things Network is a crowd-sourced LoraWAN network that covers the entire world, more or less. I built an [Android SDK](https://github.com/ticofab/The-Things-Network-Android-SDK) to interact with its original (long discontinued) MQTT API. 📡 | Android Java | [![The Things Network](ttn-basement-400.jpg)]({{< relref "../projects/the-things-network/index.md" >}} "SpeedyNappy") |
 | 2016 | [SpeedyNappy]({{< relref "../projects/speedynappy/index.md" >}} "SpeedyNappy") | SpeedyNappy is an app that lets you find the closest venue with a changing table for your baby. User-source data, reviews and all! 🚼 | Scala, Play, Java | [![SpeedyNappy](speedynappy-400.png)]({{< relref "../projects/speedynappy/index.md" >}} "SpeedyNappy") |
