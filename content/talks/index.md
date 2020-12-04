@@ -8,12 +8,9 @@ showInMenu: true
 
 ![Reactive Meetup](reactive-meetup-wework.jpg)
 
-#### UPCOMING 2020
-
-* *Remote*, **JLove**, 4th December, "From Zero To Deep Learning On The JVM"
-
 #### 2020
 
+* *Remote*, **JLove**, 4th December, "From Zero To Deep Learning On The JVM"
 * ~~Zurich (CH), **Developer Week Swiss**, 7th December, "From Zero To Deep Learning With Scala"~~  *Canceled due to pandemic*
 * *Remote*, **Intellias**, 29th October, "From Zero To Deep Learning With Scala"
 * *Remote*, **Big Mountain Data and Dev Conference**, 23rd October, "From Zero To Deep Learning On The JVM" ([recording](https://www.youtube.com/watch?v=Pteq7lq3z_E))
