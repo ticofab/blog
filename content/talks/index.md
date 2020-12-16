@@ -8,6 +8,10 @@ showInMenu: true
 
 ![Reactive Meetup](reactive-meetup-wework.jpg)
 
+#### UPCOMING 2021
+
+* *Remote*, **DevNexus**, 17th February, "Retrofit your Java App with a Reactive Flow Pipeline"
+
 #### 2020
 
 * *Remote*, **JLove**, 4th December, "From Zero To Deep Learning On The JVM"
