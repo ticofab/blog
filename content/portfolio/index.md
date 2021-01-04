@@ -3,7 +3,8 @@ title: "Portfolio"
 date: 2019-06-17T23:53:00+01:00
 hideLastModified: true
 showInMenu: true
-summary: "This is a custom summary for my article"
+summaryImage: "go1000-400.jpg"
+summary: "Ticofab's portfolio"
 ---
 
 | When | Project | Short Story | Tech | Screenshot |
