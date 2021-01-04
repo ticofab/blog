@@ -4,7 +4,7 @@ date: 2019-06-17T23:53:00+01:00
 hideLastModified: true
 showInMenu: true
 summaryImage: "go1000-400.jpg"
-summary: "Ticofab's portfolio"
+summary: "From frontends to distributed systems."
 ---
 
 | When | Project | Short Story | Tech | Screenshot |
