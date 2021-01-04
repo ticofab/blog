@@ -7,6 +7,8 @@ summaryImage: "go1000-400.jpg"
 summary: "From frontends to distributed systems."
 ---
 
+This page includes the past chapters of my career. Current ones are on [LinkedIn](https://www.linkedin.com/in/ticofab/). 
+
 | When | Project | Short Story | Tech | Screenshot |
 | :--- | :---- | :----- | :--: | :---- |
 | 2019 | [Raspberry PI&nbsp;AI]({{< relref "../projects/piai/index.md" >}} "Raspberry PI AI") | I built an AI model capable of detecting planes and ran it on a Raspberry PI looking out of the window. Pictures where a plane was detected were posted at [@PlanesOnBridge](https://twitter.com/PlanesOnBridge) 🤖 | Scala, Akka Streams, Deeplearning4j | [![Raspberry PI AI](piai-network-400.png)]({{< relref "../projects/piai/index.md" >}} "Raspberry PI AI") |
