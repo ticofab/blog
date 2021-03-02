@@ -8,8 +8,9 @@ showInMenu: true
 
 ![Reactive Meetup](reactive-meetup-wework.jpg)
 
-#### UPCOMING 2021
+#### 2021
 
+* *Remote*, **SnowOne**, 26th February, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **DevNexus**, 17th February, "Retrofit your Java App with a Reactive Flow Pipeline"
 
 #### 2020
