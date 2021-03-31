@@ -10,11 +10,12 @@ showInMenu: true
 
 #### UPCOMING 2021
 
-* *Remote*, **Geekle's Global Summit for Java Devs 2021**, 31st March, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **GIDS Live**, 27th April, "Retrofit your Java App with a Reactive Flow Pipeline"
+* *Remote*, **Berlin Buzzwords**, 14th June, "Retrofit your Java App with a Reactive Flow Pipeline"
 
 #### 2021
 
+* *Remote*, **Geekle's Global Summit for Java Devs 2021**, 31st March, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **SnowOne**, 26th February, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **DevNexus**, 17th February, "Retrofit your Java App with a Reactive Flow Pipeline"
 
