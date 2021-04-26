@@ -12,6 +12,7 @@ showInMenu: true
 
 * *Remote*, **GIDS Live**, 27th April, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **Berlin Buzzwords**, 14th June, "Retrofit your Java App with a Reactive Flow Pipeline"
+* *Remote*, **JNation**, 16th June, "Retrofit your Java App with a Reactive Flow Pipeline"
 
 #### 2021
 
