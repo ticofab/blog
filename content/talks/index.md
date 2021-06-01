@@ -13,6 +13,7 @@ showInMenu: true
 * *Remote*, **DevTalks Reimagined 2021**, 11th June, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **Berlin Buzzwords**, 14th June, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **JNation**, 16th June, "Retrofit your Java App with a Reactive Flow Pipeline"
+* *Remote*, **Kafka Summit**, 28th July, "Retrofit your Java App with a Reactive Flow Pipeline"
 
 #### 2021
 
