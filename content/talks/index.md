@@ -15,7 +15,7 @@ showInMenu: true
 #### 2021
 
 * *Remote*, **JNation**, 16th June, "Retrofit your Java App with a Reactive Flow Pipeline"
-* *Remote*, **Berlin Buzzwords**, 15th June, "Retrofit your Java App with a Reactive Flow Pipeline"
+* *Remote*, **Berlin Buzzwords**, 15th June, "Retrofit your Java App with a Reactive Flow Pipeline" ([recording](https://www.youtube.com/watch?v=KRIJ0LXFnDA))
 * *Remote*, **DevTalks Reimagined 2021**, 11th June, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **GIDS Live**, 27th April, "Retrofit your Java App with a Reactive Flow Pipeline" ([recording](https://www.youtube.com/watch?v=ZDTpm05otXk))
 * *Remote*, **Geekle Java Summit 2021**, 31st March, "Retrofit your Java App with a Reactive Flow Pipeline"
