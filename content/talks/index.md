@@ -10,7 +10,7 @@ showInMenu: true
 
 #### UPCOMING 2021
 
-* *Remote*, **IBM Expert TVt**, 3rd August
+* *Remote*, **IBM Expert TV**, 3rd August
 
 #### 2021
 
