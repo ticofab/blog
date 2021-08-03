@@ -11,6 +11,7 @@ showInMenu: true
 #### UPCOMING 2021
 
 * *Remote*, **IBM Expert TV**, 3rd August
+* *Remote*, **Scale By The Bay**, 29th October, "Retrofit your Java App with a Reactive Flow Pipeline"
 
 #### 2021
 
