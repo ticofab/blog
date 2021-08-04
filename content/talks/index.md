@@ -10,11 +10,11 @@ showInMenu: true
 
 #### UPCOMING 2021
 
-* *Remote*, **IBM Expert TV**, 3rd August
 * *Remote*, **Scale By The Bay**, 29th October, "Retrofit your Java App with a Reactive Flow Pipeline"
 
 #### 2021
 
+* *Remote*, **IBM Expert TV**, 3rd August, a lovely chat about app modernization ([recording](https://www.youtube.com/watch?v=upC6Raf9vZ4))
 * *Remote*, **Kafka Summit**, 28th July, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **JNation**, 16th June, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **Berlin Buzzwords**, 15th June, "Retrofit your Java App with a Reactive Flow Pipeline" ([recording](https://www.youtube.com/watch?v=KRIJ0LXFnDA))
