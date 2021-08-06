@@ -59,7 +59,7 @@ showInMenu: true
 * Amsterdam (NL), **Dutch Cloud Native meetup** - 11th April, "Reactive from Code to Cloud"
 * Rome (IT), **Codemotion Rome** - 22nd March, "Akka Cluster vs Kubernetes: Clustering Solutions Showdown"
 * Milan (IT), **Scala Milano meetup** - 5th February, "We all need friends, and Akka just found Kubernetes" ([recording 🇮🇹](https://www.youtube.com/watch?v=NTpHZLj3LjI&feature=youtu.be), [slides](https://www.slideshare.net/FabioTiriticco/we-all-need-friends-and-akka-just-found-kubernetes))
-* **Webinar with Lightbend** - 24th January, "Akka and Kubernetes: Reactive from Code to Cloud" ([recording](https://www.youtube.com/watch?v=FyneQrH-0Rc), [slides](https://www.lightbend.com/blog/akka-and-kubernetes-reactive-from-code-to-cloud))
+* *Remote*, **Lightbend Webinar** - 24th January, "Akka and Kubernetes: Reactive from Code to Cloud" ([recording](https://www.youtube.com/watch?v=FyneQrH-0Rc), [slides](https://www.lightbend.com/blog/akka-and-kubernetes-reactive-from-code-to-cloud))
 
 #### 2018
 
@@ -84,7 +84,7 @@ showInMenu: true
 * Utrecht (NL), **DomCode meetup** - 26th September, "Reactive Programming or Reactive Systems? (spoiler: both)"
 * Amsterdam (NL), **Codemotion Amsterdam** - 16th May, "Beyond Fault Tolerance" ([recording](https://youtu.be/zgKoAfhCHVE))
 * Amsterdam (NL), **Reactive Amsterdam meetup** - 11th April, "The World is a Streaming Place - Akka Streams at Weeronline" ([intro](https://youtu.be/eKkeHHTSETw), [recording](https://youtu.be/MQGXrrhGUTw))
-* **Codemotion Webinar** - 7th February, "How Reactive Can You Be?"
+* *Remote*, **Codemotion Webinar** - 7th February, "How Reactive Can You Be?"
 
 #### 2016
 
