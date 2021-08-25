@@ -12,7 +12,7 @@ showInMenu: true
 
 * *Remote*, **Scale By The Bay**, 29th October, "Retrofit your Java App with a Reactive Flow Pipeline"
 * *Remote*, **Build Stuff 2021**, 17th November, "Retrofit your Java App with a Reactive Flow Pipeline"
-* 
+
 #### 2021
 
 * *Remote*, **IBM Expert TV**, 3rd August, a lovely chat about app modernization ([recording](https://www.youtube.com/watch?v=upC6Raf9vZ4))
