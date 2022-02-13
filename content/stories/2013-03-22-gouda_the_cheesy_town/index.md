@@ -21,7 +21,7 @@ A short walk will take you to the main square, one of the largest in the Netherl
 
 ![](gouda-ice-skating-kids_334.jpg)
 
-The same square hosts a special building: the oldest inn of the country, no less! Or, at least, that's what they claim to be. Its name is quite evocative: _de Oude Zalm_ as in _The Old Salmon_. The façade is nothing extraordinary, but one of its wall hides a funny story. A salmon appears as a bas-relief, with the Dutch phrase _"Niet te hooch, niet te laach - van passe"_. It means "Not too high, not too low: just the right height" and it refers to the story when the hotel was forced to adjust the ceiling between the ground and the first floor.
+The same square hosts a special building: the oldest inn of the country, no less! Or at least, that's what they claim to be. Its name is quite evocative: _de Oude Zalm_ as in _The Old Salmon_. The façade is nothing extraordinary, but one of its wall hides a funny story. A salmon appears as a bas-relief, with the Dutch phrase _"Niet te hooch, niet te laach - van passe"_. It means "Not too high, not too low: just the right height" and it refers to the story when the hotel was forced to adjust the ceiling between the ground and the first floor.
 
 ![](gouda-de-oude-zalm_423.jpg)
 
